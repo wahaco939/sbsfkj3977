@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="eng">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:01:30.638"
+        end="00:01:33.518"><span region="Default">YG's new girl group BLACKPINK<br/>set a new record</span></p>
+      <p
+        begin="00:01:33.598"
+        end="00:01:34.688"><span region="Default">by reaching number one</span></p>
+      <p
+        begin="00:01:34.768"
+        end="00:01:37.938"><span region="Default">in terrestrial television music programs<br/>in just 14 days after their debut.</span></p>
+      <p
+        begin="00:01:38.018"
+        end="00:01:38.898"><span region="Default">There are 27 videos,</span></p>
+      <p
+        begin="00:01:38.978"
+        end="00:01:41.228"><span region="Default">including the music video<br/>for DDU-DU DDU-DU,</span></p>
+      <p
+        begin="00:01:41.318"
+        end="00:01:42.898"><span region="Default">that reached<br/>hundreds of millions of views…</span></p>
+      <p
+        begin="00:01:42.988"
+        end="00:01:44.358"><span region="Default">Setting various records…</span></p>
+      <p
+        begin="00:01:45.108"
+        end="00:01:46.858"><span region="Default">Surpassing the global pop stars…</span></p>
+      <p
+        begin="00:01:46.948"
+        end="00:01:48.238"><span region="Default">DAY 319</span></p>
+      <p
+        begin="00:01:50.368"
+        end="00:01:52.908"><span region="Default">BLACKPINK is finally<br/>having their first concert in Jamsil</span></p>
+      <p
+        begin="00:01:52.998"
+        end="00:01:54.828"><span region="Default">in their second year since their debut…</span></p>
+      <p
+        begin="00:01:55.368"
+        end="00:01:57.578"><span region="Default">-Hello, we are BLACKPINK.<br/>-Hello, we are BLACKPINK.</span></p>
+      <p
+        begin="00:01:57.668"
+        end="00:02:00.998"><span region="Default">BLACKPINK started their world tour<br/>with their first concert.</span></p>
+      <p
+        begin="00:02:01.088"
+        end="00:02:04.338"><span region="Default">January 31, 2021, celebrating<br/>the 5th anniversary of their debut.</span></p>
+      <p
+        begin="00:02:04.418"
+        end="00:02:06.628"><span region="Default">BLACKPINK is welcoming fans<br/>around the world with online concerts…</span></p>
+      <p
+        begin="00:02:18.728"
+        end="00:02:20.688"><span region="Default">Fans around the world<br/>are looking forward to seeing</span></p>
+      <p
+        begin="00:02:20.768"
+        end="00:02:23.988"><span region="Default">BLACKPINK in person<br/>to celebrate their 5th anniversary.</span></p>
+      <p
+        begin="00:06:45.158"
+        end="00:06:49.748"><span region="Default">I think those were really hectic moments.<br/>Because it was our first time.</span></p>
+      <p
+        begin="00:06:49.828"
+        end="00:06:52.628"><span region="Default">I'm facing towards the stage right now</span></p>
+      <p
+        begin="00:06:53.208"
+        end="00:06:56.378"><span region="Default">and those were the seats for BLINKS.</span></p>
+      <p
+        begin="00:06:57.718"
+        end="00:07:02.808"><span region="Default">There was a stage<br/>that stretched out to the front</span></p>
+      <p
+        begin="00:07:03.508"
+        end="00:07:05.768"><span region="Default">and we ran underneath the stage.</span></p>
+      <p
+        begin="00:07:06.678"
+        end="00:07:10.858"><span region="Default">I think the most nervous moment is<br/>when we walk towards backstage</span></p>
+      <p
+        begin="00:07:10.938"
+        end="00:07:13.188"><span region="Default">with the thought of meeting our fans</span></p>
+      <p
+        begin="00:07:13.268"
+        end="00:07:17.318"><span region="Default">and performing for them<br/>I think that’s the most nervous moment.</span></p>
+      <p
+        begin="00:09:59.398"
+        end="00:10:02.938"><span region="Default">I feel alive when I see the fans</span></p>
+      <p
+        begin="00:10:03.028"
+        end="00:10:07.658"><span region="Default">singing along to my song and enjoying it.</span></p>
+      <p
+        begin="00:10:07.738"
+        end="00:10:11.618"><span region="Default">That feeling of success like,<br/>"Wow I did it."</span></p>
+      <p
+        begin="00:10:11.698"
+        end="00:10:14.998"><span region="Default">They’re dancing together like me</span></p>
+      <p
+        begin="00:10:15.078"
+        end="00:10:18.288"><span region="Default">when I feel that<br/>I think that’s when I feel most alive.</span></p>
+      <p
+        begin="00:10:38.938"
+        end="00:10:42.278"><span region="Default">Wouldn’t there be much to talk about<br/>when we meet? From now on?</span></p>
+      <p
+        begin="00:10:42.358"
+        end="00:10:44.608"><span region="Default">So, I'm looking forward to it.</span></p>
+      <p
+        begin="00:11:30.528"
+        end="00:11:36.698"><span region="Default">Performing with the band during<br/>the concert is definitely really great.</span></p>
+      <p
+        begin="00:11:36.788"
+        end="00:11:40.628"><span region="Default">The energy is actually unreal.</span></p>
+      <p
+        begin="00:12:04.648"
+        end="00:12:05.978"><span region="Default">How do we go in here?</span></p>
+      <p
+        begin="00:12:07.898"
+        end="00:12:12.198"><span region="Default">So that BLINKs can also enjoy</span></p>
+      <p
+        begin="00:12:12.778"
+        end="00:12:18.288"><span region="Default">the wait for our next performance.</span></p>
+      <p
+        begin="00:12:18.368"
+        end="00:12:19.538"><span region="Default">Please look forward to it!</span></p>
+      <p
+        begin="00:12:30.928"
+        end="00:12:33.798"><span region="Default">We worked really hard<br/>to prepare for this concert</span></p>
+      <p
+        begin="00:12:34.048"
+        end="00:12:36.808"><span region="Default">so I hope you watch it<br/>more than ten times.</span></p>
+      <p
+        begin="00:12:38.718"
+        end="00:12:41.308"><span region="Default">See you soon, bye.</span></p>
+      <p
+        begin="00:12:45.818"
+        end="00:12:47.818"><span region="Default">Let's go! let's go! let's go!</span></p>
+      <p
+        begin="00:12:57.828"
+        end="00:12:59.498"><span region="Default">What are we doing right now?</span></p>
+      <p
+        begin="00:13:00.368"
+        end="00:13:01.578"><span region="Default">Emcee Girl.</span></p>
+      <p
+        begin="00:13:02.998"
+        end="00:13:05.918"><span region="Default">We got here today for the rehearsal.</span></p>
+      <p
+        begin="00:13:05.998"
+        end="00:13:08.458"><span region="Default">For what tomorrow is this rehearsal for?</span></p>
+      <p
+        begin="00:13:08.548"
+        end="00:13:11.128"><span region="Default">I believe it's a rehearsal for The Show.</span></p>
+      <p
+        begin="00:13:49.958"
+        end="00:13:53.418"><span region="Default">I wanted to make it more perfect</span></p>
+      <p
+        begin="00:13:53.508"
+        end="00:13:57.928"><span region="Default">because I was not satisfied,<br/>I wish I had more time…</span></p>
+      <p
+        begin="00:14:00.808"
+        end="00:14:01.968"><span region="Default">I’m so nervous…</span></p>
+      <p
+        begin="00:23:25.458"
+        end="00:23:27.708"><span region="Default">It was the most fun…</span></p>
+      <p
+        begin="00:23:28.708"
+        end="00:23:30.668"><span region="Default">and the best time of my life.</span></p>
+      <p
+        begin="00:23:33.378"
+        end="00:23:34.918"><span region="Default">I’ll continue to remember</span></p>
+      <p
+        begin="00:23:35.878"
+        end="00:23:37.838"><span region="Default">that moment, that feeling</span></p>
+      <p
+        begin="00:23:40.048"
+        end="00:23:43.258"><span region="Default">A lot of things happened,<br/>there were happy times</span></p>
+      <p
+        begin="00:23:43.348"
+        end="00:23:45.348"><span region="Default">and there were sad times.</span></p>
+      <p
+        begin="00:23:45.428"
+        end="00:23:48.188"><span region="Default">I think those were the happiest times.</span></p>
+      <p
+        begin="00:23:59.738"
+        end="00:24:02.408"><span region="Default">When I try to think about<br/>the difficult times</span></p>
+      <p
+        begin="00:24:02.488"
+        end="00:24:05.658"><span region="Default">I strangely can’t remember them.</span></p>
+      <p
+        begin="00:24:06.538"
+        end="00:24:11.328"><span region="Default">I just erase everything<br/>that has to do with difficult times</span></p>
+      <p
+        begin="00:24:11.418"
+        end="00:24:12.838"><span region="Default">without even knowing from my mind</span></p>
+      <p
+        begin="00:24:13.038"
+        end="00:24:16.208"><span region="Default">I don’t think I’m over positive<br/>and outgoing person.</span></p>
+      <p
+        begin="00:24:16.298"
+        end="00:24:18.548"><span region="Default">I am normal person just like everyone else</span></p>
+      <p
+        begin="00:24:18.628"
+        end="00:24:20.678"><span region="Default">every day I’m like this.</span></p>
+      <p
+        begin="00:24:32.268"
+        end="00:24:37.318"><span region="Default">I knew what I wanted to do<br/>since I was young</span></p>
+      <p
+        begin="00:24:37.398"
+        end="00:24:40.988"><span region="Default">I believe I am very lucky person.</span></p>
+      <p
+        begin="00:24:41.528"
+        end="00:24:45.238"><span region="Default">I had a clear goal<br/>to be a singer in the future.</span></p>
+      <p
+        begin="00:24:45.328"
+        end="00:24:48.578"><span region="Default">I worked hard to make my dream come true.</span></p>
+      <p
+        begin="00:24:59.968"
+        end="00:25:02.468"><span region="Default">I try to think that I am happy without</span></p>
+      <p
+        begin="00:25:03.178"
+        end="00:25:07.468"><span region="Default">having to stress myself too much.</span></p>
+      <p
+        begin="00:25:07.558"
+        end="00:25:11.888"><span region="Default">I hope for the others to think like that.</span></p>
+      <p
+        begin="00:36:57.928"
+        end="00:37:02.518"><span region="Default">I think I thought that I am<br/>a lot stronger than I thought.</span></p>
+      <p
+        begin="00:37:05.268"
+        end="00:37:08.818"><span region="Default">There will be times when I feel hurt</span></p>
+      <p
+        begin="00:37:09.278"
+        end="00:37:12.568"><span region="Default">or go through hardship but</span></p>
+      <p
+        begin="00:37:12.658"
+        end="00:37:15.408"><span region="Default">during those times my way of overcoming</span></p>
+      <p
+        begin="00:37:15.488"
+        end="00:37:18.408"><span region="Default">is preparing more for this</span></p>
+      <p
+        begin="00:37:18.498"
+        end="00:37:20.918"><span region="Default">or focusing on thinking about<br/>how I can better move forward.</span></p>
+      <p
+        begin="00:37:50.738"
+        end="00:37:51.738"><span region="Default">Attitude towards life?</span></p>
+      <p
+        begin="00:37:55.618"
+        end="00:37:57.158"><span region="Default">That’s a hard one.</span></p>
+      <p
+        begin="00:37:58.198"
+        end="00:37:59.748"><span region="Default">Well…</span></p>
+      <p
+        begin="00:38:01.708"
+        end="00:38:04.998"><span region="Default">I think I just live<br/>by enjoying every moment.</span></p>
+      <p
+        begin="00:38:35.908"
+        end="00:38:37.988"><span region="Default">What I felt throughout the process is</span></p>
+      <p
+        begin="00:38:38.078"
+        end="00:38:42.118"><span region="Default">that if I think too far ahead about</span></p>
+      <p
+        begin="00:38:42.208"
+        end="00:38:44.118"><span region="Default">things that haven’t happened yet</span></p>
+      <p
+        begin="00:38:44.208"
+        end="00:38:45.878"><span region="Default">I could get anxious and worry about it</span></p>
+      <p
+        begin="00:38:45.958"
+        end="00:38:47.918"><span region="Default">and there are many things I overlook.</span></p>
+      <p
+        begin="00:38:47.998"
+        end="00:38:50.758"><span region="Default">So I try to live in the moment</span></p>
+      <p
+        begin="00:38:50.838"
+        end="00:38:54.968"><span region="Default">and try to have fun, I think.</span></p>
+      <p
+        begin="00:39:09.518"
+        end="00:39:12.608"><span region="Default">It's almost time to meet all the BLINKs</span></p>
+      <p
+        begin="00:39:12.688"
+        end="00:39:15.738"><span region="Default">from all over the world<br/>who have waited so long.</span></p>
+      <p
+        begin="00:39:15.818"
+        end="00:39:20.618"><span region="Default">I am very, very nervous<br/>but as much as you’ve waited</span></p>
+      <p
+        begin="00:39:20.988"
+        end="00:39:22.498"><span region="Default">I am going to show you the best.</span></p>
+      <p
+        begin="00:39:22.578"
+        end="00:39:24.458"><span region="Default">Show us a lot of support and enjoy it.</span></p>
+      <p
+        begin="00:39:35.758"
+        end="00:39:39.348"><span region="Default">Thailand is also Lisa's hometown</span></p>
+      <p
+        begin="00:39:39.428"
+        end="00:39:45.268"><span region="Default">I think it's more meaningful to start<br/>our world tour in Lisa's hometown.</span></p>
+      <p
+        begin="00:39:45.348"
+        end="00:39:50.518"><span region="Default">Starting from Thailand,<br/>we're going to North America</span></p>
+      <p
+        begin="00:39:50.608"
+        end="00:39:54.528"><span region="Default">and Europe<br/>to meet BLINKs around the world.</span></p>
+      <p
+        begin="00:39:54.608"
+        end="00:39:57.408"><span region="Default">I'm so honored and looking forward to it.</span></p>
+      <p
+        begin="00:40:04.868"
+        end="00:40:10.168"><span region="Default">BLACKPINK's world tour itself<br/>is still very unfamiliar to me.</span></p>
+      <p
+        begin="00:40:10.248"
+        end="00:40:13.208"><span region="Default">I still can't believe it.</span></p>
+      <p
+        begin="00:40:17.588"
+        end="00:40:21.598"><span region="Default">I prepared a lot of fun stuff<br/>for our concert</span></p>
+      <p
+        begin="00:40:22.098"
+        end="00:40:25.558"><span region="Default">and want to do more exciting things<br/>in different countries.</span></p>
+      <p
+        begin="00:40:25.638"
+        end="00:40:27.938"><span region="Default">That's how I feel.</span></p>
+      <p
+        begin="00:40:28.018"
+        end="00:40:33.108"><span region="Default">I hope many BLINKs around the world come.<br/>It's gonna be fun.</span></p>
+      <p
+        begin="00:41:23.948"
+        end="00:41:25.948"><span region="Default">It was very touching.</span></p>
+      <p
+        begin="00:41:26.038"
+        end="00:41:30.248"><span region="Default">I think I'm very lucky to see them,<br/>I could really tell how hard they tried.</span></p>
+      <p
+        begin="00:41:30.328"
+        end="00:41:35.798"><span region="Default">From beginning to end<br/>I want them to take care of themselves.</span></p>
+      <p
+        begin="00:41:35.878"
+        end="00:41:39.718"><span region="Default">I hope everyone is healthy because</span></p>
+      <p
+        begin="00:41:39.798"
+        end="00:41:43.928"><span region="Default">they have to go to concerts<br/>around the world.</span></p>
+      <p
+        begin="00:42:02.778"
+        end="00:42:07.078"><span region="Default">We're going<br/>to visit BLINKs in other countries</span></p>
+      <p
+        begin="00:42:07.158"
+        end="00:42:09.328"><span region="Default">Please wait a little more.</span></p>
+      <p
+        begin="00:42:09.408"
+        end="00:42:12.998"><span region="Default">We'll be there very soon<br/>and we'll show you a great performance.</span></p>
+      <p
+        begin="00:42:13.078"
+        end="00:42:14.958"><span region="Default">Wait a little bit BLINKs.</span></p>
+      <p
+        begin="00:43:48.548"
+        end="00:43:53.888"><span region="Default">I just love how four young women<br/>be themselves.</span></p>
+      <p
+        begin="00:45:13.428"
+        end="00:45:14.718"><span region="Default">Hello, I’m Lisa.</span></p>
+      <p
+        begin="00:45:54.138"
+        end="00:45:57.348"><span region="Default">I’m a little shy</span></p>
+      <p
+        begin="00:45:57.428"
+        end="00:46:01.478"><span region="Default">but I want to tell everyone…</span></p>
+      <p
+        begin="00:46:05.018"
+        end="00:46:06.318"><span region="Default">Thank you so much.</span></p>
+      <p
+        begin="01:01:47.378"
+        end="01:01:51.218"><span region="Default">I think our identity is rather fixed</span></p>
+      <p
+        begin="01:01:51.718"
+        end="01:01:53.598"><span region="Default">I like to think that</span></p>
+      <p
+        begin="01:01:53.678"
+        end="01:01:57.268"><span region="Default">we have a lot of pride<br/>in having color black and pink</span></p>
+      <p
+        begin="01:01:57.348"
+        end="01:01:58.808"><span region="Default">but because of that</span></p>
+      <p
+        begin="01:01:58.888"
+        end="01:02:02.938"><span region="Default">we’re still in the process<br/>of continuously experimenting</span></p>
+      <p
+        begin="01:02:03.018"
+        end="01:02:06.688"><span region="Default">and fortunately rather than<br/>not being able to predict it,</span></p>
+      <p
+        begin="01:02:06.778"
+        end="01:02:10.948"><span region="Default">we are going forward in the direction that<br/>we want</span></p>
+      <p
+        begin="01:02:11.028"
+        end="01:02:14.368"><span region="Default">and just enjoying the whole process<br/>because of that.</span></p>
+      <p
+        begin="01:02:14.448"
+        end="01:02:16.038"><span region="Default">We all grew up in different cultures</span></p>
+      <p
+        begin="01:02:16.118"
+        end="01:02:18.538"><span region="Default">and various cultures overlapped<br/>and a group was born.</span></p>
+      <p
+        begin="01:02:19.578"
+        end="01:02:21.578"><span region="Default">But instead of forcing them into one</span></p>
+      <p
+        begin="01:02:21.668"
+        end="01:02:25.338"><span region="Default">we worked as a group</span></p>
+      <p
+        begin="01:02:25.418"
+        end="01:02:27.798"><span region="Default">without losing each of our individuality</span></p>
+      <p
+        begin="01:02:27.878"
+        end="01:02:32.548"><span region="Default">and I think that rather emerged<br/>as the color of the group BLACKPINK.</span></p>
+      <p
+        begin="01:02:33.468"
+        end="01:02:37.808"><span region="Default">I think we shine the brightest</span></p>
+      <p
+        begin="01:02:37.888"
+        end="01:02:40.098"><span region="Default">when we do what we love to do.</span></p>
+      <p
+        begin="01:02:40.178"
+        end="01:02:42.648"><span region="Default">Now that’d be music, right?</span></p>
+      <p
+        begin="01:02:42.728"
+        end="01:02:47.608"><span region="Default">When we are fully expressing<br/>what we want to express.</span></p>
+      <p
+        begin="01:02:48.228"
+        end="01:02:51.398"><span region="Default">That’s when we shine the brightest.</span></p>
+      <p
+        begin="01:02:51.488"
+        end="01:02:54.868"><span region="Default">So I think it’d be great for us to show</span></p>
+      <p
+        begin="01:02:54.948"
+        end="01:02:59.328"><span region="Default">a lot of things<br/>that we enjoy doing in the future.</span></p>
+      <p
+        begin="01:02:59.408"
+        end="01:03:02.498"><span region="Default">As we do this,<br/>because we’ve always done it thinking,</span></p>
+      <p
+        begin="01:03:02.578"
+        end="01:03:07.208"><span region="Default">"We could show something like this,<br/>this time we can show this."</span></p>
+      <p
+        begin="01:03:07.838"
+        end="01:03:11.838"><span region="Default">I think we can show different sides<br/>of us now onwards too.</span></p>
+      <p
+        begin="01:03:12.718"
+        end="01:03:17.848"><span region="Default">We plan on continuing to do what we want<br/>and show it.</span></p>
+      <p
+        begin="01:03:22.228"
+        end="01:03:26.858"><span region="Default">Five years is not too short and not too<br/>long of a time, right?</span></p>
+      <p
+        begin="01:03:27.478"
+        end="01:03:31.318"><span region="Default">But a lot of different things happened.</span></p>
+      <p
+        begin="01:03:31.898"
+        end="01:03:34.908"><span region="Default">There were happy times, and sad times.</span></p>
+      <p
+        begin="01:03:35.778"
+        end="01:03:42.708"><span region="Default">I think those<br/>were the happiest times in my 20s.</span></p>
+      <p
+        begin="01:03:45.748"
+        end="01:03:48.998"><span region="Default">When we were on tour</span></p>
+      <p
+        begin="01:03:49.088"
+        end="01:03:53.088"><span region="Default">I’d always feel hectic thinking about</span></p>
+      <p
+        begin="01:03:53.168"
+        end="01:03:56.468"><span region="Default">which city we have to go next and such.</span></p>
+      <p
+        begin="01:03:57.048"
+        end="01:04:01.308"><span region="Default">But then seeing this video<br/>it seems like we laughed a lot</span></p>
+      <p
+        begin="01:04:01.388"
+        end="01:04:06.398"><span region="Default">and really enjoyed our time together.</span></p>
+      <p
+        begin="01:04:08.108"
+        end="01:04:12.818"><span region="Default">When we debuted,<br/>and had different experiences</span></p>
+      <p
+        begin="01:04:13.398"
+        end="01:04:16.858"><span region="Default">there was a fear about whether<br/>or not we were doing well</span></p>
+      <p
+        begin="01:04:16.948"
+        end="01:04:20.408"><span region="Default">and felt uncertain about some things.</span></p>
+      <p
+        begin="01:04:21.038"
+        end="01:04:23.158"><span region="Default">When we had our first concert</span></p>
+      <p
+        begin="01:04:23.908"
+        end="01:04:29.918"><span region="Default">what we say on stage is<br/>also a very important part of our concert.</span></p>
+      <p
+        begin="01:04:29.998"
+        end="01:04:34.918"><span region="Default">I was really nervous, like,<br/>"Let’s not make any mistake."</span></p>
+      <p
+        begin="01:04:35.128"
+        end="01:04:39.798"><span region="Default">It’s already been two years<br/>since we debuted a little more than that.</span></p>
+      <p
+        begin="01:04:39.888"
+        end="01:04:43.848"><span region="Default">And to be able to have a concert</span></p>
+      <p
+        begin="01:04:43.928"
+        end="01:04:48.648"><span region="Default">at such a big venue in Korea<br/>in Seoul like this…</span></p>
+      <p
+        begin="01:04:48.728"
+        end="01:04:52.978"><span region="Default">Even as I’m saying it I feel like<br/>I’ve improved very very much.</span></p>
+      <p
+        begin="01:04:53.068"
+        end="01:04:56.398"><span region="Default">And that was possible thanks to BLINKs.<br/>Right, everyone?</span></p>
+      <p
+        begin="01:04:56.488"
+        end="01:04:59.738"><span region="Default">We’ve been together since day one.</span></p>
+      <p
+        begin="01:04:59.818"
+        end="01:05:04.618"><span region="Default">I like to think that<br/>we’ve grown a little bit</span></p>
+      <p
+        begin="01:05:04.698"
+        end="01:05:08.078"><span region="Default">seeing how we’ve become<br/>more comfortable with making a speech</span></p>
+      <p
+        begin="01:05:08.168"
+        end="01:05:09.458"><span region="Default">and taking care of each other.</span></p>
+      <p
+        begin="01:05:09.538"
+        end="01:05:12.748"><span region="Default">I like to believe that</span></p>
+      <p
+        begin="01:05:12.838"
+        end="01:05:15.588"><span region="Default">we still have that energy<br/>from when we were trainees.</span></p>
+      <p
+        begin="01:05:17.508"
+        end="01:05:20.968"><span region="Default">I’m so moved,<br/>thank you all so much for coming.</span></p>
+      <p
+        begin="01:05:21.548"
+        end="01:05:25.428"><span region="Default">Because it’s the four of us<br/>let’s trust the four of us</span></p>
+      <p
+        begin="01:05:25.518"
+        end="01:05:30.398"><span region="Default">and have more fun since we started saying<br/>that often.</span></p>
+      <p
+        begin="01:05:30.478"
+        end="01:05:34.478"><span region="Default">It became more enjoyable<br/>to take on new challenges</span></p>
+      <p
+        begin="01:05:34.568"
+        end="01:05:38.068"><span region="Default">and we got more excited<br/>and looked forward to things?</span></p>
+      <p
+        begin="01:05:38.148"
+        end="01:05:40.358"><span region="Default">I think we grew further.</span></p>
+      <p
+        begin="01:05:40.448"
+        end="01:05:46.698"><span region="Default">We are always here for you, BLINKs,<br/>so please stay with us BLINKs.</span></p>
+      <p
+        begin="01:05:47.618"
+        end="01:05:49.208"><span region="Default">When the four of us are together</span></p>
+      <p
+        begin="01:05:49.288"
+        end="01:05:54.048"><span region="Default">we always laugh and talk<br/>just like we did when we were trainees.</span></p>
+      <p
+        begin="01:05:54.128"
+        end="01:05:56.878"><span region="Default">It’s just so fun to work together also.</span></p>
+      <p
+        begin="01:05:56.958"
+        end="01:05:59.128"><span region="Default">I think we’re the same.</span></p>
+      <p
+        begin="01:06:00.218"
+        end="01:06:02.508"><span region="Default">Now we don’t even have to say a word</span></p>
+      <p
+        begin="01:06:02.598"
+        end="01:06:05.598"><span region="Default">we just look at<br/>each other’s eyes and know.</span></p>
+      <p
+        begin="01:06:07.598"
+        end="01:06:09.098"><span region="Default">Tell us, Lisa.</span></p>
+      <p
+        begin="01:06:09.188"
+        end="01:06:13.398"><span region="Default">Yes. Thanks to all of your support.</span></p>
+      <p
+        begin="01:06:14.648"
+        end="01:06:18.068"><span region="Default">And your love I will strive to work harder</span></p>
+      <p
+        begin="01:06:18.148"
+        end="01:06:20.568"><span region="Default">as Lisa of BLACKPINK, everyone.</span></p>
+      <p
+        begin="01:06:20.658"
+        end="01:06:21.948"><span region="Default">I love you, BLINKs.</span></p>
+      <p
+        begin="01:16:41.228"
+        end="01:16:42.898"><span region="Default">BLINKs.</span></p>
+      <p
+        begin="01:16:43.608"
+        end="01:16:49.028"><span region="Default">We just finished the last US show, yay.</span></p>
+      <p
+        begin="01:16:49.528"
+        end="01:16:51.618"><span region="Default">Wow, I still can’t hear.</span></p>
+      <p
+        begin="01:16:52.948"
+        end="01:16:54.208"><span region="Default">Is my voice coming out alright?</span></p>
+      <p
+        begin="01:16:54.288"
+        end="01:16:57.418"><span region="Default">I’m so sad it’s already over.</span></p>
+      <p
+        begin="01:16:57.498"
+        end="01:17:03.758"><span region="Default">It feels bittersweet.</span></p>
+      <p
+        begin="01:17:05.548"
+        end="01:17:07.218"><span region="Default">Over the past month and a half</span></p>
+      <p
+        begin="01:17:08.008"
+        end="01:17:12.638"><span region="Default">there were<br/>many new and exciting experiences.</span></p>
+      <p
+        begin="01:17:12.718"
+        end="01:17:17.898"><span region="Default">Still, I had a lot of time<br/>to relax in different cities.</span></p>
+      <p
+        begin="01:17:19.978"
+        end="01:17:21.268"><span region="Default">And it was great.</span></p>
+      <p
+        begin="01:17:22.648"
+        end="01:17:26.948"><span region="Default">We performed a lot<br/>and it was a meaningful time.</span></p>
+      <p
+        begin="01:17:27.448"
+        end="01:17:31.738"><span region="Default">I think I enjoyed every moment<br/>more than I thought.</span></p>
+      <p
+        begin="01:17:31.828"
+        end="01:17:34.998"><span region="Default">It was a meaningful tour,<br/>like a surprise gift.</span></p>
+      <p
+        begin="01:17:35.908"
+        end="01:17:38.828"><span region="Default">What I felt the most<br/>during the tour was that…</span></p>
+      <p
+        begin="01:17:42.298"
+        end="01:17:44.588"><span region="Default">it was really a time for me</span></p>
+      <p
+        begin="01:17:44.668"
+        end="01:17:48.218"><span region="Default">to rethink myself as BLACKPINK.</span></p>
+      <p
+        begin="01:17:56.598"
+        end="01:18:01.858"><span region="Default">I honestly don’t think we’ve changed much<br/>just because it’s been five years.</span></p>
+      <p
+        begin="01:18:01.938"
+        end="01:18:04.438"><span region="Default">We haven’t changed much,</span></p>
+      <p
+        begin="01:18:04.528"
+        end="01:18:07.608"><span region="Default">but it’s more reassuring<br/>to have fans by our side</span></p>
+      <p
+        begin="01:18:07.698"
+        end="01:18:11.238"><span region="Default">that always support us for five years.</span></p>
+      <p
+        begin="01:18:11.318"
+        end="01:18:14.288"><span region="Default">There will be sixth<br/>and seventh anniversary in the future</span></p>
+      <p
+        begin="01:18:14.368"
+        end="01:18:19.998"><span region="Default">but because it feels like<br/>we’re getting stronger over the years</span></p>
+      <p
+        begin="01:18:20.078"
+        end="01:18:24.798"><span region="Default">I really like the feeling of us and BLINKs</span></p>
+      <p
+        begin="01:18:24.878"
+        end="01:18:26.918"><span region="Default">becoming a lot closer.</span></p>
+      <p
+        begin="01:19:26.568"
+        end="01:19:31.448"><span region="Default">I feel like I cried a lot<br/>over the five years.</span></p>
+      <p
+        begin="01:19:31.528"
+        end="01:19:36.278"><span region="Default">When I watch the videos<br/>from my fans I tear up.</span></p>
+      <p
+        begin="01:19:36.368"
+        end="01:19:40.288"><span region="Default">I was so touched<br/>when I just saw that video.</span></p>
+      <p
+        begin="01:19:40.368"
+        end="01:19:43.998"><span region="Default">Even now as I’m talking<br/>I feel like I’m going to cry.</span></p>
+      <p
+        begin="01:19:44.078"
+        end="01:19:48.878"><span region="Default">Because I think those were<br/>such happy times.</span></p>
+      <p
+        begin="01:20:01.388"
+        end="01:20:05.268"><span region="Default">Five years ago we were five years younger</span></p>
+      <p
+        begin="01:20:05.348"
+        end="01:20:08.148"><span region="Default">and it was probably the same<br/>with our BLINKs.</span></p>
+      <p
+        begin="01:20:08.228"
+        end="01:20:10.228"><span region="Default">As we keep growing</span></p>
+      <p
+        begin="01:20:10.318"
+        end="01:20:14.358"><span region="Default">I was very very happy<br/>to be able to be with BLINKs</span></p>
+      <p
+        begin="01:20:14.448"
+        end="01:20:18.738"><span region="Default">and I miss them so much since we haven’t<br/>been able to meet lately</span></p>
+      <p
+        begin="01:20:18.828"
+        end="01:20:22.708"><span region="Default">but just as much, next time we all meet</span></p>
+      <p
+        begin="01:20:22.788"
+        end="01:20:24.998"><span region="Default">I’m so excited at the thought</span></p>
+      <p
+        begin="01:20:25.078"
+        end="01:20:29.048"><span region="Default">that we’ll be able<br/>to really happily greet them.</span></p>
+      <p
+        begin="01:20:29.128"
+        end="01:20:35.008"><span region="Default">Thank you so much<br/>for always worrying about us</span></p>
+      <p
+        begin="01:20:35.088"
+        end="01:20:37.138"><span region="Default">and we miss you so much.</span></p>
+      <p
+        begin="01:20:37.718"
+        end="01:20:41.268"><span region="Default">Because BLINKs are always there</span></p>
+      <p
+        begin="01:20:41.348"
+        end="01:20:43.638"><span region="Default">by our side loving us<br/>no matter what we did</span></p>
+      <p
+        begin="01:20:43.728"
+        end="01:20:47.608"><span region="Default">or happened that year.</span></p>
+      <p
+        begin="01:20:48.058"
+        end="01:20:52.398"><span region="Default">It makes us want to further move forward</span></p>
+      <p
+        begin="01:20:52.488"
+        end="01:20:55.948"><span region="Default">I hope you go<br/>all the way together with BLACKPINK</span></p>
+      <p
+        begin="01:20:56.028"
+        end="01:21:01.038"><span region="Default">as lifelong companions.</span></p>
+      <p
+        begin="01:21:01.118"
+        end="01:21:04.078"><span region="Default">Thank you and love you always.</span></p>
+      <p
+        begin="01:21:06.368"
+        end="01:21:12.458"><span region="Default">When we talk about how we feel inside</span></p>
+      <p
+        begin="01:21:12.548"
+        end="01:21:14.128"><span region="Default">I always have nothing to say</span></p>
+      <p
+        begin="01:21:14.218"
+        end="01:21:16.338"><span region="Default">I feel very shy about it but…</span></p>
+      <p
+        begin="01:21:28.518"
+        end="01:21:29.728"><span region="Default">What should I say?</span></p>
+      <p
+        begin="01:21:40.528"
+        end="01:21:43.238"><span region="Default">To keep it short</span></p>
+      <p
+        begin="01:21:47.788"
+        end="01:21:50.288"><span region="Default">Thank you so much.</span></p>
+      <p
+        begin="01:21:50.378"
+        end="01:21:56.838"><span region="Default">Thank you so much<br/>for loving BLACKPINK Lisa.</span></p>
+      <p
+        begin="01:21:56.918"
+        end="01:21:59.888"><span region="Default">When I was a kid I never imagined…</span></p>
+      <p
+        begin="01:22:01.638"
+        end="01:22:04.178"><span region="Default">I could be loved</span></p>
+      <p
+        begin="01:22:05.348"
+        end="01:22:11.478"><span region="Default">by people all over the world.</span></p>
+      <p
+        begin="01:22:20.448"
+        end="01:22:26.948"><span region="Default">I don't know how to express<br/>my feelings other than thank you.</span></p>
+      <p
+        begin="01:23:24.008"
+        end="01:23:26.468"><span region="Default">As we go up the stage like this</span></p>
+      <p
+        begin="01:23:26.558"
+        end="01:23:31.478"><span region="Default">we can see<br/>the light sticks shaking and the cheering.</span></p>
+      <p
+        begin="01:23:33.728"
+        end="01:23:35.688"><span region="Default">It’s so pretty.</span></p>
+      <p
+        begin="01:23:36.648"
+        end="01:23:39.818"><span region="Default">Some people make it go beep beep beep</span></p>
+      <p
+        begin="01:23:39.898"
+        end="01:23:41.948"><span region="Default">because you can set it like that.</span></p>
+      <p
+        begin="01:23:42.028"
+        end="01:23:46.618"><span region="Default">Every time I hear it I just get so excited<br/>and feel so encouraged.</span></p>
+      <p
+        begin="01:23:49.868"
+        end="01:23:53.708"><span region="Default">-BLACKPINK!<br/>-BLACKPINK!</span></p>
+      <p
+        begin="01:23:53.788"
+        end="01:23:57.588"><span region="Default">-BLACKPINK!<br/>-BLACKPINK!</span></p>
+      <p
+        begin="01:23:57.668"
+        end="01:23:59.958"><span region="Default">-BLACKPINK!<br/>-BLACKPINK!</span></p>
+      <p
+        begin="01:24:00.048"
+        end="01:24:03.258"><span region="Default">We’ll cherish this truly precious memory.</span></p>
+      <p
+        begin="01:24:03.338"
+        end="01:24:07.218"><span region="Default">Thanks to all of you supporting<br/>and loving us wholeheartedly.</span></p>
+      <p
+        begin="01:24:07.718"
+        end="01:24:12.268"><span region="Default">We’ll keep this memory<br/>and strive to grow further as BLACKPINK.</span></p>
+      <p
+        begin="01:24:12.348"
+        end="01:24:13.688"><span region="Default">Thank you.</span></p>
+      <p
+        begin="01:24:32.748"
+        end="01:24:33.868"><span region="Default">Just once more,</span></p>
+      <p
+        begin="01:24:33.958"
+        end="01:24:35.788"><span region="Default">we’ll see you once more closely<br/>before we go.</span></p>
+      <p
+        begin="01:24:35.878"
+        end="01:24:38.088"><span region="Default">So pretty, our BLINKs.</span></p>
+      <p
+        begin="01:24:38.168"
+        end="01:24:41.798"><span region="Default">Please support us<br/>and stay excited till the end.</span></p>
+      <p
+        begin="01:24:41.878"
+        end="01:24:43.298"><span region="Default">-We love you.<br/>-We love you.</span></p>
+      <p
+        begin="01:25:04.358"
+        end="01:25:06.108"><span region="Default">THANK YOU FOR BEING<br/>THE LIGHT OF MY YOUTH</span></p>
+      <p
+        begin="01:33:17.188"
+        end="01:33:21.068"><span region="Default">So in short, can I do it with a gesture?</span></p>
+      <p
+        begin="01:33:21.688"
+        end="01:33:22.858"><span region="Default">Okay, I’ll go with my gesture.</span></p>
+      <p
+        begin="01:33:22.938"
+        end="01:33:25.198"><span region="Default">-Since everyone expresses differently…<br/>-Right.</span></p>
+      <p
+        begin="01:33:32.158"
+        end="01:33:33.868"><span region="Default">Thank you for reacting.</span></p>
+      <p
+        begin="01:33:33.958"
+        end="01:33:35.748"><span region="Default">Wow, but what is this it’s great.</span></p>
+      <p
+        begin="01:33:36.208"
+        end="01:33:37.418"><span region="Default">Can you just finish like this?</span></p>
+      <p
+        begin="01:33:41.878"
+        end="01:33:43.628"><span region="Default">Shall we try it together? Shall we?</span></p>
+      <p
+        begin="01:33:43.758"
+        end="01:33:44.718"><span region="Default">Like this.</span></p>
+      <p
+        begin="01:33:54.178"
+        end="01:33:55.348"><span region="Default">So funny.</span></p>
+    </div>
+  </body>
+</tt>

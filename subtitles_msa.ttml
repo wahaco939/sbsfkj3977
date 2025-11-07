@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="msa">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:41.128"
+        end="00:00:45.218"><span region="Default">Macam mana semuanya bermula?<br/>Itu soalan yang penting.</span></p>
+      <p
+        begin="00:00:47.678"
+        end="00:00:50.058"><span region="Default">Saya rasa setiap orang<br/>ada permulaan yang berbeza...</span></p>
+      <p
+        begin="00:00:50.678"
+        end="00:00:52.688"><span region="Default">...macam mana mereka sampai<br/>ke satu tempat...</span></p>
+      <p
+        begin="00:00:52.768"
+        end="00:00:56.018"><span region="Default">...di mana kami berkumpul<br/>untuk mencipta Blackpink.</span></p>
+      <p
+        begin="00:00:56.108"
+        end="00:00:58.108"><span region="Default">Tapi bagi saya,...</span></p>
+      <p
+        begin="00:00:58.188"
+        end="00:01:01.068"><span region="Default">...saya melalui satu uji bakat<br/>yang mudah...</span></p>
+      <p
+        begin="00:01:01.148"
+        end="00:01:04.818"><span region="Default">...dan akhirnya,<br/>berlatih di YG Entertainment...</span></p>
+      <p
+        begin="00:01:04.908"
+        end="00:01:07.578"><span region="Default">...selama, saya rasa,<br/>kira-kira empat tahun.</span></p>
+      <p
+        begin="00:01:08.078"
+        end="00:01:11.578"><span region="Default">Saya ahli terbaru<br/>antara kami berempat.</span></p>
+      <p
+        begin="00:01:12.408"
+        end="00:01:14.868"><span region="Default">Yang saya ingat<br/>cuma banyak berlatih...</span></p>
+      <p
+        begin="00:01:15.878"
+        end="00:01:18.088"><span region="Default">...dan ada semangat yang kuat,...</span></p>
+      <p
+        begin="00:01:18.168"
+        end="00:01:20.338"><span region="Default">...dan matlamat besar<br/>yang menanti kami.</span></p>
+      <p
+        begin="00:01:21.128"
+        end="00:01:24.428"><span region="Default">Ia ambil masa yang lama,<br/>tapi kami berjaya...</span></p>
+      <p
+        begin="00:01:24.508"
+        end="00:01:26.638"><span region="Default">...dan kami debut<br/>sebagai Blackpink.</span></p>
+      <p
+        begin="00:01:30.638"
+        end="00:01:33.518"><span region="Default">Kumpulan wanita baru YG,<br/>Blackpink mencipta rekod baru...</span></p>
+      <p
+        begin="00:01:33.598"
+        end="00:01:34.688"><span region="Default">...dengan<br/>mendapatkan nombor satu...</span></p>
+      <p
+        begin="00:01:34.768"
+        end="00:01:37.898"><span region="Default">...dalam program muzik dunia<br/>dalam 14 hari selepas debut.</span></p>
+      <p
+        begin="00:01:37.978"
+        end="00:01:38.978"><span region="Default">Terdapat 27 video,...</span></p>
+      <p
+        begin="00:01:39.068"
+        end="00:01:41.228"><span region="Default">...termasuk video muzik<br/>untuk DDU-DU DDU-DU...</span></p>
+      <p
+        begin="00:01:41.318"
+        end="00:01:42.898"><span region="Default">...yang meraih<br/>beratus juta tontonan...</span></p>
+      <p
+        begin="00:01:42.988"
+        end="00:01:44.358"><span region="Default">Mencipta pelbagai rekod...</span></p>
+      <p
+        begin="00:01:45.108"
+        end="00:01:46.858"><span region="Default">Menumpaskan bintang pop global...</span></p>
+      <p
+        begin="00:01:46.948"
+        end="00:01:48.238"><span region="Default">Hari ke-319</span></p>
+      <p
+        begin="00:01:48.318"
+        end="00:01:49.578"><span region="Default">Apa yang ada...</span></p>
+      <p
+        begin="00:01:50.368"
+        end="00:01:52.908"><span region="Default">Blackpink akhirnya mengadakan<br/>konsert pertama di Jamsil...</span></p>
+      <p
+        begin="00:01:52.998"
+        end="00:01:54.828"><span region="Default">...pada tahun kedua<br/>sejak debut mereka...</span></p>
+      <p
+        begin="00:01:55.368"
+        end="00:01:57.578"><span region="Default">- Helo, kami Blackpink.<br/>- Helo, kami Blackpink.</span></p>
+      <p
+        begin="00:01:57.668"
+        end="00:02:00.998"><span region="Default">Blackpink mulakan jelajah dunia<br/>dengan konsert pertama mereka...</span></p>
+      <p
+        begin="00:02:01.088"
+        end="00:02:03.008"><span region="Default">...pada 31 Januari 2021,...</span></p>
+      <p
+        begin="00:02:03.088"
+        end="00:02:04.338"><span region="Default">...meraikan ulang tahun ke-5<br/>mereka debut.</span></p>
+      <p
+        begin="00:02:04.418"
+        end="00:02:06.628"><span region="Default">Blackpink bertemu peminat<br/>dengan konsert dalam talian...</span></p>
+      <p
+        begin="00:02:06.718"
+        end="00:02:08.848"><span region="Default">Tetamu seterusnya telah menjual<br/>pelbagai platinum...</span></p>
+      <p
+        begin="00:02:08.928"
+        end="00:02:11.468"><span region="Default">...dan kumpulan K-pop wanita<br/>di carta teratas.</span></p>
+      <p
+        begin="00:02:11.558"
+        end="00:02:13.558"><span region="Default">Dipersilakan Blackpink!</span></p>
+      <p
+        begin="00:02:18.728"
+        end="00:02:20.688"><span region="Default">Peminat di seluruh dunia<br/>tak sabar untuk menonton...</span></p>
+      <p
+        begin="00:02:20.768"
+        end="00:02:23.988"><span region="Default">...Blackpink untuk meraikan<br/>ulang tahun ke-5 mereka.</span></p>
+      <p
+        begin="00:06:45.158"
+        end="00:06:49.748"><span region="Default">Saya rasa itu detik penting.<br/>Sebab itu kali pertama.</span></p>
+      <p
+        begin="00:06:49.828"
+        end="00:06:52.628"><span region="Default">Saya menghadap ke pentas...</span></p>
+      <p
+        begin="00:06:53.208"
+        end="00:06:56.378"><span region="Default">...dan itu tempat duduk BLINK.</span></p>
+      <p
+        begin="00:06:57.718"
+        end="00:07:02.808"><span region="Default">Ada sebuah pentas<br/>yang terbentang di depan...</span></p>
+      <p
+        begin="00:07:03.508"
+        end="00:07:05.768"><span region="Default">...dan kami berlari<br/>di bawah pentas.</span></p>
+      <p
+        begin="00:07:06.678"
+        end="00:07:10.858"><span region="Default">Kami paling gementar semasa<br/>berjalan ke belakang pentas...</span></p>
+      <p
+        begin="00:07:10.938"
+        end="00:07:13.188"><span region="Default">...sambil memikirkan<br/>untuk bertemu peminat kami...</span></p>
+      <p
+        begin="00:07:13.268"
+        end="00:07:17.318"><span region="Default">...dan buat persembahan.<br/>Itu yang paling gementar.</span></p>
+      <p
+        begin="00:09:45.008"
+        end="00:09:49.178"><span region="Default">Dah lama kami tak dapat buat<br/>persembahan secara langsung.</span></p>
+      <p
+        begin="00:09:49.678"
+        end="00:09:51.928"><span region="Default">Sekarang,<br/>apabila saya fikir balik,...</span></p>
+      <p
+        begin="00:09:53.978"
+        end="00:09:58.648"><span region="Default">...persembahan di pentas adalah<br/>salah satu bahagian yang terbaik.</span></p>
+      <p
+        begin="00:09:59.398"
+        end="00:10:02.938"><span region="Default">Saya rasa bersemangat<br/>apabila melihat para peminat...</span></p>
+      <p
+        begin="00:10:03.028"
+        end="00:10:07.658"><span region="Default">...menyanyi bersama lagu saya<br/>dan berseronok.</span></p>
+      <p
+        begin="00:10:07.738"
+        end="00:10:11.618"><span region="Default">Rasa berjaya macam,<br/>"Saya berjaya."</span></p>
+      <p
+        begin="00:10:11.698"
+        end="00:10:14.998"><span region="Default">Mereka menari bersama-sama<br/>macam saya...</span></p>
+      <p
+        begin="00:10:15.078"
+        end="00:10:18.288"><span region="Default">...semasa saya rasa itu adalah<br/>waktu yang paling bersemangat.</span></p>
+      <p
+        begin="00:10:18.378"
+        end="00:10:23.048"><span region="Default">Sedih apabila peminat tak dapat<br/>menonton persembahan kami.</span></p>
+      <p
+        begin="00:10:24.218"
+        end="00:10:27.008"><span region="Default">Tapi saya rasa<br/>ia buat kita kami lebih macam,...</span></p>
+      <p
+        begin="00:10:27.888"
+        end="00:10:31.138"><span region="Default">...beri kami lebih ruang<br/>untuk nantikan hari itu...</span></p>
+      <p
+        begin="00:10:31.218"
+        end="00:10:34.928"><span region="Default">...dan apabila hari itu tiba,<br/>untuk semua orang berkumpul,...</span></p>
+      <p
+        begin="00:10:35.978"
+        end="00:10:38.308"><span region="Default">...itu saat yang sangat istimewa.</span></p>
+      <p
+        begin="00:10:38.938"
+        end="00:10:42.278"><span region="Default">Macam banyak yang nak dibualkan<br/>apabila bertemu, bukan?</span></p>
+      <p
+        begin="00:10:42.358"
+        end="00:10:44.608"><span region="Default">Jadi saya tak sabar.</span></p>
+      <p
+        begin="00:10:47.738"
+        end="00:10:49.158"><span region="Default">The Show Hari Pertama<br/>The Show Hari Kedua</span></p>
+      <p
+        begin="00:10:49.238"
+        end="00:10:50.908"><span region="Default">The Show Hari Ketiga<br/>The Show Hari Keempat</span></p>
+      <p
+        begin="00:10:52.448"
+        end="00:10:54.408"><span region="Default">The Show Hari Kelima</span></p>
+      <p
+        begin="00:11:00.038"
+        end="00:11:01.458"><span region="Default">The Show.</span></p>
+      <p
+        begin="00:11:22.398"
+        end="00:11:23.978"><span region="Default">The Show Hari Keempat</span></p>
+      <p
+        begin="00:11:30.528"
+        end="00:11:36.698"><span region="Default">Persembahan bersama kugiran itu<br/>memang sangat hebat.</span></p>
+      <p
+        begin="00:11:36.788"
+        end="00:11:40.628"><span region="Default">Tenaganya luar biasa.</span></p>
+      <p
+        begin="00:11:44.668"
+        end="00:11:46.838"><span region="Default">Semua alat muzik di belakang<br/>nyanyian secara langsung,...</span></p>
+      <p
+        begin="00:11:46.918"
+        end="00:11:50.888"><span region="Default">...tapi bunyinya juga<br/>jauh berbeza, jadi...</span></p>
+      <p
+        begin="00:11:53.218"
+        end="00:11:58.348"><span region="Default">Saya akhirnya faham, "Inilah yang<br/>saya buat selama dua tahun."</span></p>
+      <p
+        begin="00:11:59.348"
+        end="00:12:00.348"><span region="Default">The Show Hari Ketiga</span></p>
+      <p
+        begin="00:12:04.648"
+        end="00:12:05.978"><span region="Default">Macam mana kita nak masuk<br/>ke sini?</span></p>
+      <p
+        begin="00:12:07.898"
+        end="00:12:12.198"><span region="Default">Supaya semua BLINK<br/>juga boleh menikmati...</span></p>
+      <p
+        begin="00:12:12.778"
+        end="00:12:18.288"><span region="Default">...menunggu persembahan kami<br/>yang seterusnya.</span></p>
+      <p
+        begin="00:12:18.368"
+        end="00:12:19.538"><span region="Default">Sila nantikannya!</span></p>
+      <p
+        begin="00:12:25.748"
+        end="00:12:27.208"><span region="Default">The Show Hari Kedua</span></p>
+      <p
+        begin="00:12:30.928"
+        end="00:12:33.798"><span region="Default">Kami bekerja keras untuk buat<br/>persediaan untuk konsert ini,...</span></p>
+      <p
+        begin="00:12:34.048"
+        end="00:12:36.808"><span region="Default">...jadi saya harap anda menonton<br/>lebih daripada 10 kali.</span></p>
+      <p
+        begin="00:12:38.718"
+        end="00:12:41.308"><span region="Default">Jumpa lagi, selamat tinggal.</span></p>
+      <p
+        begin="00:12:41.388"
+        end="00:12:44.398"><span region="Default">The Show Hari Pertama</span></p>
+      <p
+        begin="00:12:45.818"
+        end="00:12:47.818"><span region="Default">Ayuh!</span></p>
+      <p
+        begin="00:12:47.898"
+        end="00:12:49.188"><span region="Default">Helo.</span></p>
+      <p
+        begin="00:12:57.828"
+        end="00:12:59.498"><span region="Default">Apa yang kita buat sekarang?</span></p>
+      <p
+        begin="00:13:00.368"
+        end="00:13:01.578"><span region="Default">Pengacara.</span></p>
+      <p
+        begin="00:13:02.998"
+        end="00:13:05.918"><span region="Default">Kita di sini hari ini<br/>untuk raptai persembahan.</span></p>
+      <p
+        begin="00:13:05.998"
+        end="00:13:08.458"><span region="Default">Raptai ini untuk apa esok?</span></p>
+      <p
+        begin="00:13:08.548"
+        end="00:13:11.128"><span region="Default">Saya percaya ini raptai<br/>untuk The Show.</span></p>
+      <p
+        begin="00:13:21.228"
+        end="00:13:22.688"><span region="Default">Hari Persembahan The Show</span></p>
+      <p
+        begin="00:13:22.768"
+        end="00:13:26.768"><span region="Default">Konsert Strim Langsung Blackpink<br/>The Show</span></p>
+      <p
+        begin="00:13:49.958"
+        end="00:13:53.418"><span region="Default">Saya nak ia jadi<br/>lebih sempurna...</span></p>
+      <p
+        begin="00:13:53.508"
+        end="00:13:57.928"><span region="Default">...sebab saya tak puas hati.<br/>Kalaulah ada masa lagi...</span></p>
+      <p
+        begin="00:14:00.808"
+        end="00:14:01.968"><span region="Default">Saya sangat gementar...</span></p>
+      <p
+        begin="00:23:25.458"
+        end="00:23:27.618"><span region="Default">Ia paling menyeronokkan...</span></p>
+      <p
+        begin="00:23:27.708"
+        end="00:23:28.708"><span region="Default">Filem Lisa</span></p>
+      <p
+        begin="00:23:28.788"
+        end="00:23:30.668"><span region="Default">...dan saat terbaik<br/>dalam hidup saya.</span></p>
+      <p
+        begin="00:23:31.918"
+        end="00:23:34.918"><span region="Default">Macam saya takkan lupa<br/>untuk sepanjang hidup saya.</span></p>
+      <p
+        begin="00:23:35.878"
+        end="00:23:37.838"><span region="Default">Waktu itu, perasaan itu...</span></p>
+      <p
+        begin="00:23:40.048"
+        end="00:23:43.258"><span region="Default">Banyak perkara berlaku,<br/>ada masa yang gembira...</span></p>
+      <p
+        begin="00:23:43.348"
+        end="00:23:45.348"><span region="Default">...dan ada masa yang sedih.</span></p>
+      <p
+        begin="00:23:45.428"
+        end="00:23:48.188"><span region="Default">Saya rasa itu adalah saat<br/>yang paling menggembirakan.</span></p>
+      <p
+        begin="00:23:59.738"
+        end="00:24:02.408"><span region="Default">Apabila saya cuba fikir<br/>masa susah,...</span></p>
+      <p
+        begin="00:24:02.488"
+        end="00:24:05.658"><span region="Default">...yang peliknya, saya tak ingat.</span></p>
+      <p
+        begin="00:24:06.538"
+        end="00:24:11.328"><span region="Default">Saya padam semua yang berkaitan<br/>dengan masa yang sukar...</span></p>
+      <p
+        begin="00:24:11.418"
+        end="00:24:12.958"><span region="Default">...dari fikiran<br/>tanpa saya sedari...</span></p>
+      <p
+        begin="00:24:13.038"
+        end="00:24:16.208"><span region="Default">Saya tak rasa saya jenis<br/>bersikap positif dan peramah.</span></p>
+      <p
+        begin="00:24:16.298"
+        end="00:24:18.548"><span region="Default">Saya orang biasa<br/>sama macam orang lain,...</span></p>
+      <p
+        begin="00:24:18.628"
+        end="00:24:22.258"><span region="Default">...setiap hari saya macam ini,<br/>saya macam ini setiap hari.</span></p>
+      <p
+        begin="00:24:32.268"
+        end="00:24:37.318"><span region="Default">Saya tahu apa yang saya<br/>nak buat sejak kecil lagi.</span></p>
+      <p
+        begin="00:24:37.398"
+        end="00:24:40.988"><span region="Default">Saya percaya saya sangat bertuah.</span></p>
+      <p
+        begin="00:24:41.528"
+        end="00:24:45.238"><span region="Default">Matlamat saya menjadi penyanyi<br/>pada masa depan sangat jelas.</span></p>
+      <p
+        begin="00:24:45.328"
+        end="00:24:48.578"><span region="Default">Saya bekerja keras untuk jadikan<br/>impian saya kenyataan.</span></p>
+      <p
+        begin="00:24:59.968"
+        end="00:25:02.468"><span region="Default">Saya cuba fikir<br/>yang saya gembira tanpa...</span></p>
+      <p
+        begin="00:25:03.178"
+        end="00:25:07.468"><span region="Default">...perlu rasa terlalu tertekan.</span></p>
+      <p
+        begin="00:25:07.558"
+        end="00:25:11.888"><span region="Default">Saya harap orang lain<br/>akan fikir macam itu.</span></p>
+      <p
+        begin="00:25:13.808"
+        end="00:25:15.228"><span region="Default">Hidup ini terlalu singkat.</span></p>
+      <p
+        begin="00:36:57.928"
+        end="00:37:02.518"><span region="Default">Saya rasa saya lebih kuat<br/>daripada yang saya sangka.</span></p>
+      <p
+        begin="00:37:05.268"
+        end="00:37:08.818"><span region="Default">Kadang kala saya akan<br/>rasa tersinggung...</span></p>
+      <p
+        begin="00:37:09.278"
+        end="00:37:12.568"><span region="Default">...atau rasa susah hati, tapi...</span></p>
+      <p
+        begin="00:37:12.658"
+        end="00:37:15.408"><span region="Default">...pada saat-saat itu,<br/>cara saya mengatasinya ialah...</span></p>
+      <p
+        begin="00:37:15.488"
+        end="00:37:18.408"><span region="Default">...dengan lebih bersedia<br/>untuk ini...</span></p>
+      <p
+        begin="00:37:18.498"
+        end="00:37:20.918"><span region="Default">...atau fokus pada macam mana<br/>saya boleh mara ke hadapan.</span></p>
+      <p
+        begin="00:37:41.558"
+        end="00:37:48.188"><span region="Default">Filem Jisoo</span></p>
+      <p
+        begin="00:37:50.738"
+        end="00:37:51.738"><span region="Default">Sikap terhadap kehidupan?</span></p>
+      <p
+        begin="00:37:55.618"
+        end="00:37:57.158"><span region="Default">Itu soalan yang sukar.</span></p>
+      <p
+        begin="00:37:58.198"
+        end="00:37:59.748"><span region="Default">Sebenarnya...</span></p>
+      <p
+        begin="00:38:01.708"
+        end="00:38:04.998"><span region="Default">Saya rasa saya hidup<br/>dengan menikmati setiap saat.</span></p>
+      <p
+        begin="00:38:35.908"
+        end="00:38:37.988"><span region="Default">Apa yang saya rasa<br/>sepanjang proses ini ialah...</span></p>
+      <p
+        begin="00:38:38.078"
+        end="00:38:41.538"><span region="Default">...kalau saya fikir<br/>terlalu jauh tentang...</span></p>
+      <p
+        begin="00:38:42.118"
+        end="00:38:44.118"><span region="Default">...perkara yang belum berlaku,...</span></p>
+      <p
+        begin="00:38:44.208"
+        end="00:38:45.878"><span region="Default">...saya boleh jadi gelisah<br/>dan risau tentangnya...</span></p>
+      <p
+        begin="00:38:45.958"
+        end="00:38:47.918"><span region="Default">...dan banyak perkara<br/>yang saya terlepas pandang.</span></p>
+      <p
+        begin="00:38:47.998"
+        end="00:38:50.758"><span region="Default">Jadi saya cuba<br/>untuk menikmati hidup...</span></p>
+      <p
+        begin="00:38:50.838"
+        end="00:38:54.968"><span region="Default">...dan cuba untuk berseronok.</span></p>
+      <p
+        begin="00:38:57.678"
+        end="00:39:03.768"><span region="Default">Jelajah Dunia 2019<br/>Blackpink Di Kawasan Anda</span></p>
+      <p
+        begin="00:39:07.358"
+        end="00:39:09.018"><span region="Default">Oh, ya!</span></p>
+      <p
+        begin="00:39:09.518"
+        end="00:39:12.608"><span region="Default">Dah hampir tiba masa<br/>untuk bertemu semua BLINK...</span></p>
+      <p
+        begin="00:39:12.688"
+        end="00:39:15.738"><span region="Default">...dari seluruh dunia<br/>yang dah lama menunggu.</span></p>
+      <p
+        begin="00:39:15.818"
+        end="00:39:20.618"><span region="Default">Saya sangat gementar,<br/>tapi anda dah lama menunggu,...</span></p>
+      <p
+        begin="00:39:20.988"
+        end="00:39:22.498"><span region="Default">...jadi saya akan tunjukkan<br/>yang terbaik.</span></p>
+      <p
+        begin="00:39:22.578"
+        end="00:39:24.458"><span region="Default">Tunjukkan sokongan anda<br/>kepada kami dan berseronoklah.</span></p>
+      <p
+        begin="00:39:35.758"
+        end="00:39:39.348"><span region="Default">Thailand adalah kampung Lisa.</span></p>
+      <p
+        begin="00:39:39.428"
+        end="00:39:45.268"><span region="Default">Lebih bermakna untuk mulakan<br/>jelajah kami di kampung Lisa.</span></p>
+      <p
+        begin="00:39:45.348"
+        end="00:39:50.518"><span region="Default">Bermula dari Thailand,<br/>kami akan ke Amerika Utara...</span></p>
+      <p
+        begin="00:39:50.608"
+        end="00:39:54.528"><span region="Default">...dan Eropah untuk bertemu<br/>BLINK di seluruh dunia.</span></p>
+      <p
+        begin="00:39:54.608"
+        end="00:39:57.408"><span region="Default">Saya sangat bangga<br/>dan tak sabar menantikannya.</span></p>
+      <p
+        begin="00:40:04.868"
+        end="00:40:10.168"><span region="Default">Jelajah dunia Blackpink<br/>masih luar biasa bagi saya.</span></p>
+      <p
+        begin="00:40:10.248"
+        end="00:40:13.208"><span region="Default">Saya masih tak percaya.</span></p>
+      <p
+        begin="00:40:17.588"
+        end="00:40:21.598"><span region="Default">Saya sediakan banyak benda<br/>menarik untuk konsert kami...</span></p>
+      <p
+        begin="00:40:22.098"
+        end="00:40:25.558"><span region="Default">...dan nak buat perkara lebih<br/>menarik di negara yang berbeza.</span></p>
+      <p
+        begin="00:40:25.638"
+        end="00:40:27.938"><span region="Default">Itulah yang saya rasa.</span></p>
+      <p
+        begin="00:40:28.018"
+        end="00:40:33.108"><span region="Default">Saya harap BLINK dari seluruh<br/>dunia datang. Pasti seronok.</span></p>
+      <p
+        begin="00:40:47.658"
+        end="00:40:49.118"><span region="Default">Apa khabar, Bangkok?</span></p>
+      <p
+        begin="00:41:23.948"
+        end="00:41:25.948"><span region="Default">Ia sangat mengharukan.</span></p>
+      <p
+        begin="00:41:26.038"
+        end="00:41:30.248"><span region="Default">Saya bertuah dapat lihat mereka.<br/>Saya tahu mereka berusaha.</span></p>
+      <p
+        begin="00:41:30.328"
+        end="00:41:35.798"><span region="Default">Dari mula sampai akhir,<br/>saya nak mereka jaga diri.</span></p>
+      <p
+        begin="00:41:35.878"
+        end="00:41:39.718"><span region="Default">Saya harap semua orang sihat<br/>sebab...</span></p>
+      <p
+        begin="00:41:39.798"
+        end="00:41:43.928"><span region="Default">...mereka perlu ke konsert<br/>di seluruh dunia.</span></p>
+      <p
+        begin="00:42:02.778"
+        end="00:42:07.078"><span region="Default">Kami akan melawat BLINK<br/>di negara lain.</span></p>
+      <p
+        begin="00:42:07.158"
+        end="00:42:09.328"><span region="Default">Tolong tunggu sekejap saja lagi.</span></p>
+      <p
+        begin="00:42:09.408"
+        end="00:42:12.998"><span region="Default">Kami akan sampai nanti dan<br/>buat persembahan yang hebat.</span></p>
+      <p
+        begin="00:42:13.078"
+        end="00:42:14.958"><span region="Default">Tunggu sekejap, BLINK.</span></p>
+      <p
+        begin="00:42:18.418"
+        end="00:42:22.928"><span region="Default">Ini Jelajah Dunia Di Kawasan Anda<br/>Blackpink 2019, Jakarta!</span></p>
+      <p
+        begin="00:42:23.008"
+        end="00:42:24.548"><span region="Default">Hong Kong! Manila!</span></p>
+      <p
+        begin="00:42:24.638"
+        end="00:42:26.178"><span region="Default">Singapura! Macau!</span></p>
+      <p
+        begin="00:42:26.258"
+        end="00:42:28.308"><span region="Default">Kuala Lumpur! Taipei!</span></p>
+      <p
+        begin="00:42:50.698"
+        end="00:42:55.038"><span region="Default">Mereka memang paling hebat.<br/>Saya sangat sayangkan mereka.</span></p>
+      <p
+        begin="00:42:57.378"
+        end="00:42:59.088"><span region="Default">Blackpink ada cara hebat<br/>mereka sendiri.</span></p>
+      <p
+        begin="00:43:06.428"
+        end="00:43:08.888"><span region="Default">Blackpink! Selamat datang ke LA!</span></p>
+      <p
+        begin="00:43:08.968"
+        end="00:43:10.178"><span region="Default">Selamat datang ke Texas!</span></p>
+      <p
+        begin="00:43:10.258"
+        end="00:43:12.678"><span region="Default">- Selamat datang ke Atlanta!<br/>- Selamat datang ke Kanada!</span></p>
+      <p
+        begin="00:43:12.768"
+        end="00:43:14.308"><span region="Default">Selamat datang ke Fort Worth!</span></p>
+      <p
+        begin="00:43:14.388"
+        end="00:43:17.478"><span region="Default">Selamat datang<br/>ke Newark, Blackpink!</span></p>
+      <p
+        begin="00:43:48.548"
+        end="00:43:53.888"><span region="Default">Saya suka empat orang gadis muda<br/>jadi diri mereka sendiri.</span></p>
+      <p
+        begin="00:43:53.978"
+        end="00:43:55.888"><span region="Default">Mereka macam model peranan<br/>pada kami.</span></p>
+      <p
+        begin="00:43:55.978"
+        end="00:43:58.348"><span region="Default">- Kami nak jadi macam Blackpink.<br/>- Ya.</span></p>
+      <p
+        begin="00:44:36.228"
+        end="00:44:38.348"><span region="Default">Hai, Melbourne. Saya Rosé.</span></p>
+      <p
+        begin="00:45:05.918"
+        end="00:45:08.968"><span region="Default">Selamat Pulang, Rosie</span></p>
+      <p
+        begin="00:45:13.428"
+        end="00:45:14.718"><span region="Default">Helo, saya Lisa.</span></p>
+      <p
+        begin="00:45:15.888"
+        end="00:45:18.728"><span region="Default">Saya sangat gembira<br/>dapat kembali ke Thailand.</span></p>
+      <p
+        begin="00:45:23.818"
+        end="00:45:26.318"><span region="Default">Kami berempat buat<br/>dengan sangat baik...</span></p>
+      <p
+        begin="00:45:26.398"
+        end="00:45:29.568"><span region="Default">...dan saya bangga dengan<br/>setiap seorang daripada kami...</span></p>
+      <p
+        begin="00:45:29.648"
+        end="00:45:31.238"><span region="Default">...sebab kami dah lalui<br/>banyak perkara.</span></p>
+      <p
+        begin="00:45:32.868"
+        end="00:45:38.198"><span region="Default">Saya tahu anda cuma nampak<br/>benda di pentas, tapi...</span></p>
+      <p
+        begin="00:45:38.288"
+        end="00:45:41.248"><span region="Default">...kami lalui banyak perkara<br/>dan saya sangat bangga...</span></p>
+      <p
+        begin="00:45:41.328"
+        end="00:45:42.328"><span region="Default">Saya nak menangis.</span></p>
+      <p
+        begin="00:45:42.418"
+        end="00:45:44.748"><span region="Default">Semua orang berhenti menangis.</span></p>
+      <p
+        begin="00:45:45.748"
+        end="00:45:48.668"><span region="Default">Semua orang menangis.</span></p>
+      <p
+        begin="00:45:54.138"
+        end="00:45:57.348"><span region="Default">Saya agak malu,...</span></p>
+      <p
+        begin="00:45:57.428"
+        end="00:46:01.478"><span region="Default">...tapi saya nak beritahu<br/>semua orang...</span></p>
+      <p
+        begin="00:46:02.808"
+        end="00:46:06.318"><span region="Default">Terima kasih banyak, BLINK.<br/>Kami sayang kamu. Terima kasih.</span></p>
+      <p
+        begin="00:46:06.398"
+        end="00:46:09.988"><span region="Default">Kami sayang kamu semua dan<br/>masih banyak lagi yang menanti.</span></p>
+      <p
+        begin="00:46:10.068"
+        end="00:46:11.528"><span region="Default">Ini cuma permulaan untuk kami.</span></p>
+      <p
+        begin="00:46:13.568"
+        end="00:46:16.908"><span region="Default">Kami sentiasa sayangkan<br/>kamu semua. Terima kasih.</span></p>
+      <p
+        begin="00:46:29.418"
+        end="00:46:30.418"><span region="Default">Tulen...</span></p>
+      <p
+        begin="00:46:32.468"
+        end="00:46:33.928"><span region="Default">Berpuisi...</span></p>
+      <p
+        begin="00:46:35.218"
+        end="00:46:37.048"><span region="Default">Penuh Ghairah...</span></p>
+      <p
+        begin="00:46:38.718"
+        end="00:46:40.178"><span region="Default">Tak Pernah Mati...</span></p>
+      <p
+        begin="00:46:42.188"
+        end="00:46:43.518"><span region="Default">Ketara...</span></p>
+      <p
+        begin="00:46:44.808"
+        end="00:46:46.438"><span region="Default">Kekal Muda...</span></p>
+      <p
+        begin="00:46:48.398"
+        end="00:46:49.688"><span region="Default">Tak Pentingkan Diri...</span></p>
+      <p
+        begin="00:46:51.318"
+        end="00:46:53.448"><span region="Default">Saya dan kamu...</span></p>
+      <p
+        begin="00:46:53.528"
+        end="00:46:55.528"><span region="Default">Keinginan...</span></p>
+      <p
+        begin="00:47:04.288"
+        end="00:47:05.878"><span region="Default">Semasa membesar,<br/>kita rasa macam...</span></p>
+      <p
+        begin="00:47:05.958"
+        end="00:47:09.998"><span region="Default">...matlamat dan impian kita<br/>tak ada batasan.</span></p>
+      <p
+        begin="00:47:10.878"
+        end="00:47:13.258"><span region="Default">Sentiasa ada kesukaran sebab...</span></p>
+      <p
+        begin="00:47:13.338"
+        end="00:47:16.638"><span region="Default">...ia agak mencabar sebagai<br/>remaja berusia 16 tahun...</span></p>
+      <p
+        begin="00:47:17.178"
+        end="00:47:19.508"><span region="Default">...untuk membesar<br/>dalam budaya yang berbeza.</span></p>
+      <p
+        begin="00:47:20.638"
+        end="00:47:23.098"><span region="Default">Ia tak nampak macam benar<br/>pada waktu itu,...</span></p>
+      <p
+        begin="00:47:23.178"
+        end="00:47:26.018"><span region="Default">...tapi saya tahu<br/>yang ia akan jadi kenyataan.</span></p>
+      <p
+        begin="00:47:27.438"
+        end="00:47:31.068"><span region="Default">Sebenarnya saya cemburu dengan<br/>diri sendiri sebagai pelatih...</span></p>
+      <p
+        begin="00:47:31.148"
+        end="00:47:35.148"><span region="Default">...sebab saya percaya<br/>yang saya sangat cekal...</span></p>
+      <p
+        begin="00:47:35.238"
+        end="00:47:37.698"><span region="Default">...sangat degil dan pasti<br/>tentang masa depan saya...</span></p>
+      <p
+        begin="00:47:37.778"
+        end="00:47:40.408"><span region="Default">...dan bertekad<br/>untuk mencapai matlamat saya...</span></p>
+      <p
+        begin="00:47:40.488"
+        end="00:47:42.748"><span region="Default">...dan entah kenapa,<br/>saya tahu saya akan berjaya.</span></p>
+      <p
+        begin="00:47:46.418"
+        end="00:47:51.498"><span region="Default">Saya selalu fikir balik betapa<br/>saya sangat meminati muzik...</span></p>
+      <p
+        begin="00:47:51.588"
+        end="00:47:52.758"><span region="Default">...dan betapa muzik...</span></p>
+      <p
+        begin="00:47:53.628"
+        end="00:47:55.798"><span region="Default">...banyak menyokong saya.</span></p>
+      <p
+        begin="00:47:55.878"
+        end="00:47:59.468"><span region="Default">Ia jadi sebahagian<br/>daripada hidup saya...</span></p>
+      <p
+        begin="00:47:59.548"
+        end="00:48:01.638"><span region="Default">...sampai ke hari ini, jadi...</span></p>
+      <p
+        begin="00:48:01.718"
+        end="00:48:03.468"><span region="Default">Ya, muzik<br/>adalah bahagian yang penting.</span></p>
+      <p
+        begin="00:48:06.518"
+        end="00:48:09.938"><span region="Default">Bersedia untuk muzik<br/>sentiasa bersifat peribadi.</span></p>
+      <p
+        begin="00:48:10.568"
+        end="00:48:13.318"><span region="Default">Dapat meneroka<br/>buat kali pertama...</span></p>
+      <p
+        begin="00:48:13.398"
+        end="00:48:17.988"><span region="Default">...muzik saya berkenaan apa dan<br/>nak tunjuk apa kepada peminat...</span></p>
+      <p
+        begin="00:48:18.068"
+        end="00:48:20.278"><span region="Default">...merupakan satu pengalaman<br/>yang berharga.</span></p>
+      <p
+        begin="00:48:22.408"
+        end="00:48:25.828"><span region="Default">Semasa persiapan<br/>untuk The Show,...</span></p>
+      <p
+        begin="00:48:25.908"
+        end="00:48:29.878"><span region="Default">...saya rasa saya juga buat<br/>persiapan projek solo saya...</span></p>
+      <p
+        begin="00:48:29.958"
+        end="00:48:34.878"><span region="Default">Saya baru saja habis<br/>penggambaran untuk Gone,...</span></p>
+      <p
+        begin="00:48:34.958"
+        end="00:48:37.718"><span region="Default">...jadi itu video muzik kedua<br/>yang saya buat tanpa henti.</span></p>
+      <p
+        begin="00:48:38.298"
+        end="00:48:41.598"><span region="Default">Sejujurnya, saya rasa ini<br/>kali pertama saya cakap...</span></p>
+      <p
+        begin="00:48:41.678"
+        end="00:48:44.558"><span region="Default">...yang ia memang satu cabaran,<br/>tapi dalam masa yang sama,...</span></p>
+      <p
+        begin="00:48:44.638"
+        end="00:48:48.728"><span region="Default">...saya sangat bersyukur<br/>dengan peluang yang diberikan.</span></p>
+      <p
+        begin="00:48:48.808"
+        end="00:48:53.858"><span region="Default">Seronok mencipta, berfikir<br/>dan jadikannya kenyataan,...</span></p>
+      <p
+        begin="00:48:53.938"
+        end="00:48:55.778"><span region="Default">...semua idea kami...</span></p>
+      <p
+        begin="00:48:56.778"
+        end="00:48:58.198"><span region="Default">Saya rasa<br/>saya dah cuba yang terbaik.</span></p>
+      <p
+        begin="00:48:58.648"
+        end="00:49:00.658"><span region="Default">Saya tak rasa saya<br/>akan ubah apa-apa,...</span></p>
+      <p
+        begin="00:49:00.738"
+        end="00:49:04.118"><span region="Default">...sebab saya betul-betul<br/>cuba bersungguh-sungguh.</span></p>
+      <p
+        begin="00:57:10.648"
+        end="00:57:13.398"><span region="Default">Seingat saya,...</span></p>
+      <p
+        begin="00:57:13.478"
+        end="00:57:16.818"><span region="Default">...sejak saya kecil,<br/>saya memang pemalu.</span></p>
+      <p
+        begin="00:57:18.198"
+        end="00:57:22.158"><span region="Default">Saya tak suka bercakap<br/>di depan orang ramai.</span></p>
+      <p
+        begin="00:57:23.788"
+        end="00:57:27.458"><span region="Default">Saya selalu mencari sesuatu<br/>yang baru...</span></p>
+      <p
+        begin="00:57:27.538"
+        end="00:57:31.208"><span region="Default">...di mana saya nak<br/>jadikannya kepada sesuatu...</span></p>
+      <p
+        begin="00:57:32.338"
+        end="00:57:35.958"><span region="Default">...dan hasilkan sesuatu yang<br/>belum pernah ada di dunia.</span></p>
+      <p
+        begin="00:57:38.378"
+        end="00:57:42.638"><span region="Default">Tapi apabila menyanyi<br/>di atas pentas,...</span></p>
+      <p
+        begin="00:57:43.428"
+        end="00:57:48.308"><span region="Default">...saya macam tonjolkan<br/>diri saya yang baru...</span></p>
+      <p
+        begin="00:57:48.388"
+        end="00:57:50.478"><span region="Default">...di mana saya tak rasa takut.</span></p>
+      <p
+        begin="00:57:56.608"
+        end="00:57:59.148"><span region="Default">Apabila saya buat persembahan,<br/>saya lupa tentang semuanya.</span></p>
+      <p
+        begin="00:58:00.028"
+        end="00:58:01.488"><span region="Default">Semuanya tentang saya...</span></p>
+      <p
+        begin="00:58:02.068"
+        end="00:58:05.238"><span region="Default">...meluahkan perasaan saya,<br/>meluahkan muzik kami.</span></p>
+      <p
+        begin="00:58:05.948"
+        end="00:58:09.578"><span region="Default">Mungkin saya boleh mengubah<br/>diri saya,...</span></p>
+      <p
+        begin="00:58:10.158"
+        end="00:58:11.958"><span region="Default">...tapi ia bukan sesuatu<br/>yang saya buat dengan sengaja.</span></p>
+      <p
+        begin="00:58:12.628"
+        end="00:58:14.418"><span region="Default">Saya rasa<br/>ia reaksi terhadap muzik.</span></p>
+      <p
+        begin="00:58:14.998"
+        end="00:58:20.838"><span region="Default">Tenaga pertama yang saya temui<br/>setiap kali saya di pentas.</span></p>
+      <p
+        begin="00:58:42.568"
+        end="00:58:45.528"><span region="Default">Saya nak kata ia sesuatu yang<br/>memang ada dalam diri saya...</span></p>
+      <p
+        begin="00:58:45.618"
+        end="00:58:48.368"><span region="Default">...sebab saya bangga<br/>dan gembira melakukannya.</span></p>
+      <p
+        begin="00:58:49.448"
+        end="00:58:50.458"><span region="Default">Ya.</span></p>
+      <p
+        begin="01:01:47.378"
+        end="01:01:51.218"><span region="Default">Saya rasa<br/>identiti kita tak berubah.</span></p>
+      <p
+        begin="01:01:51.718"
+        end="01:01:53.598"><span region="Default">Saya rasa yang...</span></p>
+      <p
+        begin="01:01:53.678"
+        end="01:01:57.268"><span region="Default">...kami bangga dengan warna<br/>hitam dan merah jambu,...</span></p>
+      <p
+        begin="01:01:57.348"
+        end="01:01:58.808"><span region="Default">...tapi disebabkan itu,...</span></p>
+      <p
+        begin="01:01:58.888"
+        end="01:02:02.938"><span region="Default">...kami masih<br/>dalam proses meneroka...</span></p>
+      <p
+        begin="01:02:03.018"
+        end="01:02:06.688"><span region="Default">...dan nasib baik, daripada<br/>tak dapat menjangkannya,...</span></p>
+      <p
+        begin="01:02:06.778"
+        end="01:02:10.948"><span region="Default">...kami menuju ke arah<br/>yang kami mahu...</span></p>
+      <p
+        begin="01:02:11.028"
+        end="01:02:14.368"><span region="Default">...dan menikmati<br/>keseluruhan proses disebabkannya.</span></p>
+      <p
+        begin="01:02:14.448"
+        end="01:02:16.038"><span region="Default">Kami semua membesar<br/>dalam budaya yang berbeza...</span></p>
+      <p
+        begin="01:02:16.118"
+        end="01:02:18.538"><span region="Default">...dan pelbagai budaya bertindih<br/>dan kumpulan ini dilahirkan.</span></p>
+      <p
+        begin="01:02:19.578"
+        end="01:02:21.578"><span region="Default">Tapi daripada memaksa<br/>menjadi satu,...</span></p>
+      <p
+        begin="01:02:21.668"
+        end="01:02:25.338"><span region="Default">...kami bekerja<br/>sebagai satu kumpulan...</span></p>
+      <p
+        begin="01:02:25.418"
+        end="01:02:27.798"><span region="Default">...tanpa kehilangan<br/>setiap individualiti kami...</span></p>
+      <p
+        begin="01:02:27.878"
+        end="01:02:32.548"><span region="Default">...dan saya rasa ia menggabungkan<br/>warna kumpulan Blackpink.</span></p>
+      <p
+        begin="01:02:33.468"
+        end="01:02:37.808"><span region="Default">Saya rasa<br/>kami paling menyerlah...</span></p>
+      <p
+        begin="01:02:37.888"
+        end="01:02:40.098"><span region="Default">...apabila kami buat<br/>apa yang kami suka.</span></p>
+      <p
+        begin="01:02:40.178"
+        end="01:02:42.648"><span region="Default">Itu muzik, bukan?</span></p>
+      <p
+        begin="01:02:42.728"
+        end="01:02:47.608"><span region="Default">Apabila kami betul-betul luahkan<br/>apa yang kami nak luahkan.</span></p>
+      <p
+        begin="01:02:48.228"
+        end="01:02:51.398"><span region="Default">Waktu itulah<br/>kami paling menyerlah.</span></p>
+      <p
+        begin="01:02:51.488"
+        end="01:02:54.868"><span region="Default">Jadi saya rasa<br/>bagus untuk kami tunjuk...</span></p>
+      <p
+        begin="01:02:54.948"
+        end="01:02:59.328"><span region="Default">...banyak perkara yang kami suka<br/>di masa hadapan.</span></p>
+      <p
+        begin="01:02:59.408"
+        end="01:03:02.498"><span region="Default">Semasa kami buat semua ini,<br/>sebab kami buat sambil fikir,...</span></p>
+      <p
+        begin="01:03:02.578"
+        end="01:03:07.208"><span region="Default">..."Kita boleh tunjuk macam ini,<br/>kali ini, kita tunjuk ini."</span></p>
+      <p
+        begin="01:03:07.838"
+        end="01:03:11.838"><span region="Default">Saya rasa kami boleh mula<br/>tunjuk sisi yang berbeza juga.</span></p>
+      <p
+        begin="01:03:12.718"
+        end="01:03:17.848"><span region="Default">Kami nak terus buat apa<br/>yang kami mahu dan tunjukkannya.</span></p>
+      <p
+        begin="01:03:22.228"
+        end="01:03:26.858"><span region="Default">Lima tahun tak terlalu singkat<br/>dan tak terlalu lama, bukan?</span></p>
+      <p
+        begin="01:03:27.478"
+        end="01:03:31.318"><span region="Default">Tapi banyak perkara<br/>yang berbeza berlaku.</span></p>
+      <p
+        begin="01:03:31.898"
+        end="01:03:34.908"><span region="Default">Ada masa yang gembira<br/>dan masa yang sedih.</span></p>
+      <p
+        begin="01:03:35.778"
+        end="01:03:42.708"><span region="Default">Saya rasa itu masa paling gembira<br/>semasa usia 20-an saya.</span></p>
+      <p
+        begin="01:03:45.748"
+        end="01:03:48.998"><span region="Default">Semasa kami dalam jelajah,...</span></p>
+      <p
+        begin="01:03:49.088"
+        end="01:03:53.088"><span region="Default">...saya selalu gelisah<br/>memikirkan...</span></p>
+      <p
+        begin="01:03:53.168"
+        end="01:03:56.468"><span region="Default">...kami akan ke bandar mana<br/>dan segalanya.</span></p>
+      <p
+        begin="01:03:57.048"
+        end="01:04:01.308"><span region="Default">Tapi apabila menonton video ini,<br/>kami macam banyak ketawa...</span></p>
+      <p
+        begin="01:04:01.388"
+        end="01:04:06.398"><span region="Default">...dan menikmati<br/>masa kami bersama.</span></p>
+      <p
+        begin="01:04:08.108"
+        end="01:04:12.818"><span region="Default">Semasa kami debut,<br/>dan ada pengalaman berbeza,...</span></p>
+      <p
+        begin="01:04:13.398"
+        end="01:04:16.858"><span region="Default">...kami rasa takut sama ada<br/>kami akan berjaya atau tak...</span></p>
+      <p
+        begin="01:04:16.948"
+        end="01:04:20.408"><span region="Default">...dan rasa tak pasti<br/>tentang beberapa perkara.</span></p>
+      <p
+        begin="01:04:21.038"
+        end="01:04:23.158"><span region="Default">Semasa kami buat<br/>konsert pertama kami,...</span></p>
+      <p
+        begin="01:04:23.908"
+        end="01:04:29.918"><span region="Default">...apa yang kami cakap di pentas<br/>juga penting untuk konsert kami.</span></p>
+      <p
+        begin="01:04:29.998"
+        end="01:04:34.918"><span region="Default">Saya sangat gementar,<br/>dan cakap, "Jangan buat silap."</span></p>
+      <p
+        begin="01:04:35.128"
+        end="01:04:39.798"><span region="Default">Dah dua tahun sejak kami debut.</span></p>
+      <p
+        begin="01:04:39.888"
+        end="01:04:43.848"><span region="Default">Untuk dapat adakan konsert...</span></p>
+      <p
+        begin="01:04:43.928"
+        end="01:04:48.648"><span region="Default">...di tempat besar macam ini,<br/>di Korea, di Seoul...</span></p>
+      <p
+        begin="01:04:48.728"
+        end="01:04:52.978"><span region="Default">Walaupun saya kata saya rasa<br/>saya dah bertambah baik.</span></p>
+      <p
+        begin="01:04:53.068"
+        end="01:04:56.398"><span region="Default">Itu mungkin sebab BLINK juga.<br/>Betul, semua?</span></p>
+      <p
+        begin="01:04:56.488"
+        end="01:04:59.738"><span region="Default">Kami dah bersama<br/>sejak hari pertama.</span></p>
+      <p
+        begin="01:04:59.818"
+        end="01:05:04.618"><span region="Default">Saya rasa kami semakin matang...</span></p>
+      <p
+        begin="01:05:04.698"
+        end="01:05:08.078"><span region="Default">...melihatkan kami lebih selesa<br/>untuk beri ucapan...</span></p>
+      <p
+        begin="01:05:08.168"
+        end="01:05:09.458"><span region="Default">...dan menjaga satu sama lain.</span></p>
+      <p
+        begin="01:05:09.538"
+        end="01:05:12.748"><span region="Default">Saya percaya...</span></p>
+      <p
+        begin="01:05:12.838"
+        end="01:05:15.588"><span region="Default">...kami masih bertenaga<br/>daripada semasa menjadi pelatih.</span></p>
+      <p
+        begin="01:05:17.508"
+        end="01:05:20.968"><span region="Default">Saya sangat terharu.<br/>Terima kasih, semua sebab datang.</span></p>
+      <p
+        begin="01:05:21.548"
+        end="01:05:25.428"><span region="Default">Sebab kami berempat,<br/>percayakan kami berempat...</span></p>
+      <p
+        begin="01:05:25.518"
+        end="01:05:30.398"><span region="Default">...dan lebih berseronok sebab<br/>kami selalu cakap macam itu.</span></p>
+      <p
+        begin="01:05:30.478"
+        end="01:05:34.478"><span region="Default">Ia jadi lebih seronok<br/>untuk menghadapi cabaran baru...</span></p>
+      <p
+        begin="01:05:34.568"
+        end="01:05:38.068"><span region="Default">...dan kami jadi lebih teruja<br/>dan menantikan masa depan.</span></p>
+      <p
+        begin="01:05:38.148"
+        end="01:05:40.358"><span region="Default">Saya rasa<br/>kami semakin berkembang.</span></p>
+      <p
+        begin="01:05:40.448"
+        end="01:05:46.698"><span region="Default">Kami sentasa bersama kamu, BLINK,<br/>jadi kekal bersama kami, BLINK.</span></p>
+      <p
+        begin="01:05:47.618"
+        end="01:05:49.208"><span region="Default">Apabila kami berempat bersama,...</span></p>
+      <p
+        begin="01:05:49.288"
+        end="01:05:54.048"><span region="Default">...kami selalu ketawa dan berbual<br/>macam semasa kami jadi pelatih.</span></p>
+      <p
+        begin="01:05:54.128"
+        end="01:05:56.878"><span region="Default">Ia sangat menyeronokkan<br/>untuk bekerja bersama juga.</span></p>
+      <p
+        begin="01:05:56.958"
+        end="01:05:59.128"><span region="Default">Saya rasa kami sama.</span></p>
+      <p
+        begin="01:06:00.218"
+        end="01:06:02.508"><span region="Default">Kita tak perlu cakap apa-apa pun.</span></p>
+      <p
+        begin="01:06:02.598"
+        end="01:06:05.598"><span region="Default">Kita cuma melihat mata<br/>satu sama lain dan tahu.</span></p>
+      <p
+        begin="01:06:07.598"
+        end="01:06:09.098"><span region="Default">Beritahu kami, Lisa.</span></p>
+      <p
+        begin="01:06:09.188"
+        end="01:06:13.398"><span region="Default">Ya. Terima kasih atas sokongan<br/>kamu semua.</span></p>
+      <p
+        begin="01:06:14.648"
+        end="01:06:18.068"><span region="Default">Kasih sayang kamu<br/>akan buat saya lebih berusaha...</span></p>
+      <p
+        begin="01:06:18.148"
+        end="01:06:20.568"><span region="Default">...sebagai Lisa Blackpink, semua.</span></p>
+      <p
+        begin="01:06:20.658"
+        end="01:06:21.948"><span region="Default">Saya sayang kamu, BLINK.</span></p>
+      <p
+        begin="01:16:41.228"
+        end="01:16:42.898"><span region="Default">BLINK.</span></p>
+      <p
+        begin="01:16:43.608"
+        end="01:16:49.028"><span region="Default">Kami baru selesai<br/>persembahan AS terakhir. Hore.</span></p>
+      <p
+        begin="01:16:49.528"
+        end="01:16:51.618"><span region="Default">Saya masih tak boleh dengar.</span></p>
+      <p
+        begin="01:16:52.948"
+        end="01:16:54.208"><span region="Default">Suara saya okeykah?</span></p>
+      <p
+        begin="01:16:54.288"
+        end="01:16:57.418"><span region="Default">Saya sangat sedih<br/>sebab ia dah berakhir.</span></p>
+      <p
+        begin="01:16:57.498"
+        end="01:17:03.758"><span region="Default">Ia rasa sedih dan gembira.</span></p>
+      <p
+        begin="01:17:05.548"
+        end="01:17:07.218"><span region="Default">Dalam masa sebulan setengah,...</span></p>
+      <p
+        begin="01:17:08.008"
+        end="01:17:12.638"><span region="Default">...ada banyak pengalaman<br/>baru dan mengujakan.</span></p>
+      <p
+        begin="01:17:12.718"
+        end="01:17:17.898"><span region="Default">Saya masih ada banyak masa<br/>untuk berehat di bandar berbeza.</span></p>
+      <p
+        begin="01:17:19.978"
+        end="01:17:21.268"><span region="Default">Ia sangat hebat.</span></p>
+      <p
+        begin="01:17:22.648"
+        end="01:17:26.948"><span region="Default">Kami buat banyak persembahan<br/>dan ia saat yang bermakna.</span></p>
+      <p
+        begin="01:17:27.448"
+        end="01:17:31.738"><span region="Default">Saya nikmati setiap detik<br/>lebih daripada yang dijangka.</span></p>
+      <p
+        begin="01:17:31.828"
+        end="01:17:34.998"><span region="Default">Ia jelajah yang bermakna,<br/>macam hadiah kejutan.</span></p>
+      <p
+        begin="01:17:35.908"
+        end="01:17:38.828"><span region="Default">Apa yang saya rasa<br/>semasa jelajah ialah...</span></p>
+      <p
+        begin="01:17:42.298"
+        end="01:17:44.588"><span region="Default">...dah tiba masanya untuk saya...</span></p>
+      <p
+        begin="01:17:44.668"
+        end="01:17:48.218"><span region="Default">...fikir semula tentang<br/>diri saya sebagai Blackpink.</span></p>
+      <p
+        begin="01:17:56.598"
+        end="01:18:01.858"><span region="Default">Sejujurnya, kami masih sama<br/>walaupun dah lima tahun.</span></p>
+      <p
+        begin="01:18:01.938"
+        end="01:18:04.438"><span region="Default">Kami tak banyak berubah,...</span></p>
+      <p
+        begin="01:18:04.528"
+        end="01:18:07.608"><span region="Default">...tapi ia lebih meyakinkan<br/>untuk ada peminat di sisi kami...</span></p>
+      <p
+        begin="01:18:07.698"
+        end="01:18:11.238"><span region="Default">...yang sentiasa menyokong kami<br/>selama lima tahun ini.</span></p>
+      <p
+        begin="01:18:11.318"
+        end="01:18:14.288"><span region="Default">Satu hari nanti, akan ada<br/>ulang tahun ke-6 dan ke-7,...</span></p>
+      <p
+        begin="01:18:14.368"
+        end="01:18:19.998"><span region="Default">...tapi sebab ia terasa<br/>macam kami semakin kuat,...</span></p>
+      <p
+        begin="01:18:20.078"
+        end="01:18:24.798"><span region="Default">...saya sangat suka<br/>perasaan kami dan BLINK...</span></p>
+      <p
+        begin="01:18:24.878"
+        end="01:18:26.918"><span region="Default">...menjadi lebih rapat.</span></p>
+      <p
+        begin="01:18:27.838"
+        end="01:18:30.128"><span region="Default">Tak percaya dah lima tahun.</span></p>
+      <p
+        begin="01:18:32.508"
+        end="01:18:38.178"><span region="Default">Saya harap filem ini<br/>dapat lepaskan...</span></p>
+      <p
+        begin="01:18:39.388"
+        end="01:18:42.148"><span region="Default">...rasa kecewa BLINK dan...</span></p>
+      <p
+        begin="01:18:43.358"
+        end="01:18:46.568"><span region="Default">...ia memori yang baik<br/>yang kami akan ada juga...</span></p>
+      <p
+        begin="01:18:46.648"
+        end="01:18:49.948"><span region="Default">...dan tengok balik tahun depan<br/>dan berbual tentangnya?</span></p>
+      <p
+        begin="01:18:50.738"
+        end="01:18:53.738"><span region="Default">Ia satu langkah baru bagi kami.<br/>Saya gembira yang...</span></p>
+      <p
+        begin="01:18:54.698"
+        end="01:18:56.738"><span region="Default">...kami dapat peluang ini.</span></p>
+      <p
+        begin="01:18:58.498"
+        end="01:19:00.158"><span region="Default">Saya rindu anda semua.</span></p>
+      <p
+        begin="01:19:26.568"
+        end="01:19:31.448"><span region="Default">Saya rasa macam saya banyak<br/>menangis selama lima tahun ini.</span></p>
+      <p
+        begin="01:19:31.528"
+        end="01:19:36.278"><span region="Default">Apabila menonton video<br/>daripada peminat, saya menangis.</span></p>
+      <p
+        begin="01:19:36.368"
+        end="01:19:40.288"><span region="Default">Saya sangat terharu<br/>apabila menonton video itu.</span></p>
+      <p
+        begin="01:19:40.368"
+        end="01:19:43.998"><span region="Default">Sekarang pun saya rasa<br/>macam nak menangis.</span></p>
+      <p
+        begin="01:19:44.078"
+        end="01:19:48.878"><span region="Default">Sebab saya rasa itu<br/>adalah waktu yang gembira.</span></p>
+      <p
+        begin="01:20:01.388"
+        end="01:20:05.268"><span region="Default">Lima tahun lalu,<br/>kami lima tahun lebih muda...</span></p>
+      <p
+        begin="01:20:05.348"
+        end="01:20:08.148"><span region="Default">...dan mungkin ia sama<br/>dengan BLINK.</span></p>
+      <p
+        begin="01:20:08.228"
+        end="01:20:10.228"><span region="Default">Sambil kami semakin dewasa,...</span></p>
+      <p
+        begin="01:20:10.318"
+        end="01:20:14.358"><span region="Default">...saya sangat gembira<br/>dapat bersama dengan BLINK...</span></p>
+      <p
+        begin="01:20:14.448"
+        end="01:20:18.738"><span region="Default">...dan sangat rindukan mereka<br/>sebab tak dapat jumpa mereka,...</span></p>
+      <p
+        begin="01:20:18.828"
+        end="01:20:22.708"><span region="Default">...tapi apabila kita<br/>berjumpa nanti,...</span></p>
+      <p
+        begin="01:20:22.788"
+        end="01:20:24.998"><span region="Default">...saya sangat teruja<br/>memikirkan...</span></p>
+      <p
+        begin="01:20:25.078"
+        end="01:20:29.048"><span region="Default">...yang kami boleh menyambut<br/>mereka dengan gembira.</span></p>
+      <p
+        begin="01:20:29.128"
+        end="01:20:35.008"><span region="Default">Terima kasih<br/>sebab sentiasa risaukan kami...</span></p>
+      <p
+        begin="01:20:35.088"
+        end="01:20:37.138"><span region="Default">...dan kami sangat rindukan anda.</span></p>
+      <p
+        begin="01:20:37.718"
+        end="01:20:41.268"><span region="Default">Sebab BLINK sentiasa ada...</span></p>
+      <p
+        begin="01:20:41.348"
+        end="01:20:43.638"><span region="Default">...di sisi kami, menyayangi kami,<br/>tak kira apa yang kami buat...</span></p>
+      <p
+        begin="01:20:43.728"
+        end="01:20:47.608"><span region="Default">...atau berlaku pada tahun itu.</span></p>
+      <p
+        begin="01:20:48.058"
+        end="01:20:52.398"><span region="Default">Ia membantu kami mara.</span></p>
+      <p
+        begin="01:20:52.488"
+        end="01:20:55.948"><span region="Default">Saya harap anda mara<br/>bersama Blackpink...</span></p>
+      <p
+        begin="01:20:56.028"
+        end="01:21:01.038"><span region="Default">...sebagai teman sepanjang hayat.</span></p>
+      <p
+        begin="01:21:01.118"
+        end="01:21:04.078"><span region="Default">Terima kasih<br/>dan kami sayang anda.</span></p>
+      <p
+        begin="01:21:06.368"
+        end="01:21:12.458"><span region="Default">Apabila kita bercakap<br/>tentang perasaan kita,...</span></p>
+      <p
+        begin="01:21:12.548"
+        end="01:21:14.128"><span region="Default">...saya tak tahu nak cakap apa.</span></p>
+      <p
+        begin="01:21:14.218"
+        end="01:21:16.338"><span region="Default">Saya rasa sangat malu, tapi...</span></p>
+      <p
+        begin="01:21:28.518"
+        end="01:21:29.728"><span region="Default">Apa patut saya cakap?</span></p>
+      <p
+        begin="01:21:34.938"
+        end="01:21:39.278"><span region="Default">Ada banyak benda<br/>yang saya nak cakap, tapi...</span></p>
+      <p
+        begin="01:21:40.528"
+        end="01:21:43.238"><span region="Default">...untuk ringkaskan...</span></p>
+      <p
+        begin="01:21:47.788"
+        end="01:21:50.288"><span region="Default">Terima kasih banyak.</span></p>
+      <p
+        begin="01:21:50.378"
+        end="01:21:56.838"><span region="Default">Terima kasih banyak<br/>sebab sayangkan Lisa Blackpink.</span></p>
+      <p
+        begin="01:21:56.918"
+        end="01:21:59.888"><span region="Default">Semasa saya kecil,<br/>saya tak pernah bayangkan...</span></p>
+      <p
+        begin="01:22:01.638"
+        end="01:22:04.178"><span region="Default">...saya boleh disayangi...</span></p>
+      <p
+        begin="01:22:05.348"
+        end="01:22:11.478"><span region="Default">...oleh orang di seluruh dunia.</span></p>
+      <p
+        begin="01:22:12.768"
+        end="01:22:16.688"><span region="Default">Terima kasih<br/>sebab sentiasa menyokong saya.</span></p>
+      <p
+        begin="01:22:18.028"
+        end="01:22:19.358"><span region="Default">Ya, itu saja.</span></p>
+      <p
+        begin="01:22:20.448"
+        end="01:22:26.948"><span region="Default">Saya tak pandai luahkan perasaan<br/>selain berterima kasih.</span></p>
+      <p
+        begin="01:22:30.538"
+        end="01:22:31.918"><span region="Default">Terima kasih, Blackpink...</span></p>
+      <p
+        begin="01:22:31.998"
+        end="01:22:34.588"><span region="Default">...sebab tunjukkan yang kita<br/>boleh buat apa yang kita suka...</span></p>
+      <p
+        begin="01:22:34.668"
+        end="01:22:36.128"><span region="Default">...apabila kita percaya.</span></p>
+      <p
+        begin="01:22:36.208"
+        end="01:22:37.338"><span region="Default">Kami sayang kamu.</span></p>
+      <p
+        begin="01:22:37.418"
+        end="01:22:42.218"><span region="Default">Teruskan berusaha.<br/>Kami akan sentiasa bersama kamu.</span></p>
+      <p
+        begin="01:22:42.298"
+        end="01:22:46.518"><span region="Default">Saya menyokong Blackpink<br/>dan terima kasih untuk segalanya.</span></p>
+      <p
+        begin="01:22:47.138"
+        end="01:22:48.138"><span region="Default">Saya pun.</span></p>
+      <p
+        begin="01:22:49.058"
+        end="01:22:51.098"><span region="Default">- Kamu Ratu.<br/>- Kami sayang kamu.</span></p>
+      <p
+        begin="01:22:51.188"
+        end="01:22:53.648"><span region="Default">Saya sayang kamu semua<br/>dan kamu buat dengan baik...</span></p>
+      <p
+        begin="01:22:53.728"
+        end="01:22:55.318"><span region="Default">...dan saya harap<br/>dapat jumpa kamu lagi.</span></p>
+      <p
+        begin="01:23:24.008"
+        end="01:23:26.468"><span region="Default">Semasa kami naik<br/>ke pentas macam ini,...</span></p>
+      <p
+        begin="01:23:26.558"
+        end="01:23:31.478"><span region="Default">...kami boleh nampak batang<br/>lampu bergoyang dan sorakan.</span></p>
+      <p
+        begin="01:23:33.728"
+        end="01:23:35.688"><span region="Default">Ia sangat cantik.</span></p>
+      <p
+        begin="01:23:36.648"
+        end="01:23:39.818"><span region="Default">Ada yang terus buat<br/>ia berkelip...</span></p>
+      <p
+        begin="01:23:39.898"
+        end="01:23:41.948"><span region="Default">...sebab kita boleh<br/>buat macam itu.</span></p>
+      <p
+        begin="01:23:42.028"
+        end="01:23:46.618"><span region="Default">Setiap kali saya dengar,<br/>saya rasa teruja dan bersemangat.</span></p>
+      <p
+        begin="01:23:49.868"
+        end="01:23:53.708"><span region="Default">- Blackpink!<br/>- Blackpink!</span></p>
+      <p
+        begin="01:23:53.788"
+        end="01:23:57.588"><span region="Default">- Blackpink!<br/>- Blackpink!</span></p>
+      <p
+        begin="01:23:57.668"
+        end="01:23:59.958"><span region="Default">- Blackpink!<br/>- Blackpink!</span></p>
+      <p
+        begin="01:24:00.048"
+        end="01:24:03.258"><span region="Default">Kami akan hargai kenangan<br/>yang sangat berharga ini.</span></p>
+      <p
+        begin="01:24:03.338"
+        end="01:24:07.218"><span region="Default">Terima kasih sebab menyokong<br/>dan menyayangi kami sepenuh hati.</span></p>
+      <p
+        begin="01:24:07.718"
+        end="01:24:12.268"><span region="Default">Kami akan simpan memori ini<br/>dan terus mara sebagai Blackpink.</span></p>
+      <p
+        begin="01:24:12.348"
+        end="01:24:13.688"><span region="Default">Terima kasih.</span></p>
+      <p
+        begin="01:24:27.448"
+        end="01:24:29.038"><span region="Default">Kekal dengan kami, BLINK.</span></p>
+      <p
+        begin="01:24:30.198"
+        end="01:24:32.658"><span region="Default">Kami Akan Kekal Selamanya</span></p>
+      <p
+        begin="01:24:32.748"
+        end="01:24:33.868"><span region="Default">Sekali saja lagi,...</span></p>
+      <p
+        begin="01:24:33.958"
+        end="01:24:35.788"><span region="Default">...kami akan jumpa kamu semua<br/>secara rapat sebelum kami pergi.</span></p>
+      <p
+        begin="01:24:35.878"
+        end="01:24:38.088"><span region="Default">BLINK kita sangat cantik.</span></p>
+      <p
+        begin="01:24:38.168"
+        end="01:24:41.798"><span region="Default">Sila sokong kami dan kekal<br/>teruja sampai ke akhirnya.</span></p>
+      <p
+        begin="01:24:41.878"
+        end="01:24:43.298"><span region="Default">- Kami sayang kamu.<br/>- Kami sayang kamu.</span></p>
+      <p
+        begin="01:25:01.228"
+        end="01:25:02.278"><span region="Default">Blackpink Selamanya</span></p>
+      <p
+        begin="01:25:02.358"
+        end="01:25:03.358"><span region="Default">Jisoo, Jennie, Rose, Lisa<br/>Kamu memang hebat!</span></p>
+      <p
+        begin="01:25:03.438"
+        end="01:25:04.568"><span region="Default">Disebabkan kamu, hidup saya<br/>lebih menarik dan gembira.</span></p>
+      <p
+        begin="01:25:04.648"
+        end="01:25:05.778"><span region="Default">Terima kasih kerana menjadi<br/>cahaya dalam zaman remaja saya.</span></p>
+      <p
+        begin="01:33:17.188"
+        end="01:33:21.068"><span region="Default">Secara ringkas,<br/>boleh saya buat dengan isyarat?</span></p>
+      <p
+        begin="01:33:21.688"
+        end="01:33:22.858"><span region="Default">Okey,<br/>saya akan buat isyarat saya.</span></p>
+      <p
+        begin="01:33:22.938"
+        end="01:33:25.198"><span region="Default">- Sebab semua orang berbeza...<br/>- Betul.</span></p>
+      <p
+        begin="01:33:26.948"
+        end="01:33:30.078"><span region="Default">BLINK Blackpink selamanya.</span></p>
+      <p
+        begin="01:33:32.158"
+        end="01:33:33.868"><span region="Default">Terima kasih<br/>sebab beri tindak balas.</span></p>
+      <p
+        begin="01:33:33.958"
+        end="01:33:35.748"><span region="Default">Tapi ia sangat hebat.</span></p>
+      <p
+        begin="01:33:36.208"
+        end="01:33:37.418"><span region="Default">Boleh awak tamatkan macam ini?</span></p>
+      <p
+        begin="01:33:37.498"
+        end="01:33:39.748"><span region="Default">BLINK Blackpink selamanya.</span></p>
+      <p
+        begin="01:33:41.088"
+        end="01:33:43.628"><span region="Default">- Terima kasih.<br/>- Boleh cuba bersama-sama? Boleh?</span></p>
+      <p
+        begin="01:33:43.708"
+        end="01:33:45.838"><span region="Default">Macam ini,<br/>BLINK Blackpink selamanya.</span></p>
+      <p
+        begin="01:33:45.928"
+        end="01:33:47.718"><span region="Default">Okey, lima, enam, tujuh, lapan...</span></p>
+      <p
+        begin="01:33:47.798"
+        end="01:33:50.718"><span region="Default">BLINK Blackpink selamanya.</span></p>
+      <p
+        begin="01:33:50.808"
+        end="01:33:52.808"><span region="Default">Terima kasih, semua!</span></p>
+      <p
+        begin="01:33:54.178"
+        end="01:33:55.348"><span region="Default">Kelakarnya.</span></p>
+      <p
+        begin="01:36:23.458"
+        end="01:36:25.168"><span region="Default">Saya rindu anda semua.</span></p>
+      <p
+        begin="01:36:27.458"
+        end="01:36:29.458"><span region="Default">Sari Kata oleh Najihah Malek</span></p>
+    </div>
+  </body>
+</tt>

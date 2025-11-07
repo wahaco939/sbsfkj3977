@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="chi">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:41.128"
+        end="00:00:45.218"><span region="Default">一切是怎么开始的<br/>这是个很难回答的问题</span></p>
+      <p
+        begin="00:00:47.678"
+        end="00:00:50.138"><span region="Default">我想每个人的起点都不一样</span></p>
+      <p
+        begin="00:00:50.678"
+        end="00:00:52.688"><span region="Default">我们是如何来到这个地方</span></p>
+      <p
+        begin="00:00:52.768"
+        end="00:00:56.018"><span region="Default">聚在一起组成BLACKPINK</span></p>
+      <p
+        begin="00:00:56.108"
+        end="00:00:58.108"><span region="Default">但以我个人来说</span></p>
+      <p
+        begin="00:00:58.188"
+        end="00:01:00.608"><span region="Default">我只是通过一个简单的试镜</span></p>
+      <p
+        begin="00:01:01.148"
+        end="00:01:04.818"><span region="Default">然后开始在YG娱乐练习</span></p>
+      <p
+        begin="00:01:04.908"
+        end="00:01:07.578"><span region="Default">我练习了大概四年吧</span></p>
+      <p
+        begin="00:01:08.158"
+        end="00:01:11.998"><span region="Default">我是我们四个人当中最新的成员</span></p>
+      <p
+        begin="00:01:12.498"
+        end="00:01:14.578"><span region="Default">我只记得一直练习</span></p>
+      <p
+        begin="00:01:15.708"
+        end="00:01:18.128"><span region="Default">我们有很强的动力</span></p>
+      <p
+        begin="00:01:18.208"
+        end="00:01:20.418"><span region="Default">眼前有一个远大的目标</span></p>
+      <p
+        begin="00:01:21.298"
+        end="00:01:22.878"><span region="Default">花了很长的时间 但…</span></p>
+      <p
+        begin="00:01:23.468"
+        end="00:01:24.508"><span region="Default">我们做到了</span></p>
+      <p
+        begin="00:01:24.588"
+        end="00:01:26.718"><span region="Default">我们以BLACKPINK为团名出道了</span></p>
+      <p
+        begin="00:01:30.638"
+        end="00:01:33.518"><span region="Default">YG的新女团BLACKPINK创下了新纪录</span></p>
+      <p
+        begin="00:01:33.598"
+        end="00:01:34.598"><span region="Default">出道短短14天</span></p>
+      <p
+        begin="00:01:34.688"
+        end="00:01:37.938"><span region="Default">就在电视音乐节目拿下了第一名</span></p>
+      <p
+        begin="00:01:38.018"
+        end="00:01:38.898"><span region="Default">总共有27支视频</span></p>
+      <p
+        begin="00:01:38.978"
+        end="00:01:41.228"><span region="Default">包括《DDU-DU DDU-DU》的<br/>音乐录影带</span></p>
+      <p
+        begin="00:01:41.318"
+        end="00:01:42.898"><span region="Default">观看次数达到数亿次…</span></p>
+      <p
+        begin="00:01:42.988"
+        end="00:01:44.358"><span region="Default">打破多项纪录…</span></p>
+      <p
+        begin="00:01:45.108"
+        end="00:01:46.858"><span region="Default">超越了全球流行巨星…</span></p>
+      <p
+        begin="00:01:46.948"
+        end="00:01:48.238"><span region="Default">第319天</span></p>
+      <p
+        begin="00:01:48.318"
+        end="00:01:49.578"><span region="Default">接下来会是什么</span></p>
+      <p
+        begin="00:01:50.368"
+        end="00:01:52.908"><span region="Default">BLACKPINK<br/>终于首次在蚕室举办演唱会</span></p>
+      <p
+        begin="00:01:52.998"
+        end="00:01:54.828"><span region="Default">在她们出道的第二年</span></p>
+      <p
+        begin="00:01:55.368"
+        end="00:01:57.578"><span region="Default">-大家好 我们是BLACKPINK<br/>-大家好 我们是BLACKPINK</span></p>
+      <p
+        begin="00:01:57.668"
+        end="00:02:00.998"><span region="Default">BLACKPINK的第一场世界巡回演唱会</span></p>
+      <p
+        begin="00:02:01.418"
+        end="00:02:03.008"><span region="Default">于2021年1月31日开唱</span></p>
+      <p
+        begin="00:02:03.088"
+        end="00:02:04.338"><span region="Default">庆祝她们出道五周年</span></p>
+      <p
+        begin="00:02:04.418"
+        end="00:02:06.628"><span region="Default">BLACKPINK用线上演唱会<br/>欢迎世界各地的粉丝</span></p>
+      <p
+        begin="00:02:06.718"
+        end="00:02:09.008"><span region="Default">接下来的嘉宾<br/>是有多张白金唱片销量纪录</span></p>
+      <p
+        begin="00:02:09.098"
+        end="00:02:11.468"><span region="Default">称霸排行榜的K-pop女团</span></p>
+      <p
+        begin="00:02:11.558"
+        end="00:02:13.558"><span region="Default">欢迎BLACKPINK</span></p>
+      <p
+        begin="00:02:18.728"
+        end="00:02:20.688"><span region="Default">世界各地的粉丝都很期待亲眼看到</span></p>
+      <p
+        begin="00:02:20.768"
+        end="00:02:23.988"><span region="Default">BLACKPINK庆祝她们出道五周年</span></p>
+      <p
+        begin="00:06:18.298"
+        end="00:06:24.888"><span region="Default">首尔奥林匹克体操竞技场</span></p>
+      <p
+        begin="00:06:45.158"
+        end="00:06:49.748"><span region="Default">我觉得当时真的很忙乱<br/>因为那是我们的第一次</span></p>
+      <p
+        begin="00:06:49.828"
+        end="00:06:52.628"><span region="Default">我现在面对着舞台</span></p>
+      <p
+        begin="00:06:53.208"
+        end="00:06:56.378"><span region="Default">那些是BLINK的座位</span></p>
+      <p
+        begin="00:06:58.008"
+        end="00:07:02.808"><span region="Default">有个长长的舞台一直延伸到前面</span></p>
+      <p
+        begin="00:07:03.508"
+        end="00:07:05.678"><span region="Default">我们要从舞台底下跑过去</span></p>
+      <p
+        begin="00:07:06.678"
+        end="00:07:10.858"><span region="Default">我觉得最紧张的时刻<br/>就是我们走向后台时</span></p>
+      <p
+        begin="00:07:10.938"
+        end="00:07:13.268"><span region="Default">一想到要跟粉丝见面</span></p>
+      <p
+        begin="00:07:13.358"
+        end="00:07:17.318"><span region="Default">为他们表演<br/>我觉得那是最紧张的时刻</span></p>
+      <p
+        begin="00:09:45.008"
+        end="00:09:49.178"><span region="Default">我们好久没有现场表演了</span></p>
+      <p
+        begin="00:09:49.678"
+        end="00:09:52.098"><span region="Default">现在回想起来</span></p>
+      <p
+        begin="00:09:53.978"
+        end="00:09:58.648"><span region="Default">在舞台上表演是其中一件最棒的事</span></p>
+      <p
+        begin="00:09:59.398"
+        end="00:10:02.938"><span region="Default">当我看到粉丝很享受地唱着我的歌</span></p>
+      <p
+        begin="00:10:03.028"
+        end="00:10:07.658"><span region="Default">这让我感觉充满活力</span></p>
+      <p
+        begin="00:10:07.738"
+        end="00:10:11.618"><span region="Default">有一种成功的感觉〝哇 我做到了〞</span></p>
+      <p
+        begin="00:10:11.698"
+        end="00:10:14.998"><span region="Default">他们跟我一起跳一样的舞</span></p>
+      <p
+        begin="00:10:15.078"
+        end="00:10:17.828"><span region="Default">那种时刻让我感觉最有活力</span></p>
+      <p
+        begin="00:10:18.378"
+        end="00:10:22.958"><span region="Default">无法让粉丝在现场观赏表演<br/>真的很令人难过</span></p>
+      <p
+        begin="00:10:24.218"
+        end="00:10:27.138"><span region="Default">但我想这只会让我们…</span></p>
+      <p
+        begin="00:10:27.968"
+        end="00:10:31.098"><span region="Default">这给了我们有更多空间<br/>去期待那一天</span></p>
+      <p
+        begin="00:10:31.218"
+        end="00:10:34.928"><span region="Default">当那一天来临时<br/>当我们能处在同一个空间时</span></p>
+      <p
+        begin="00:10:35.978"
+        end="00:10:38.308"><span region="Default">那会是非常特别的时刻</span></p>
+      <p
+        begin="00:10:38.768"
+        end="00:10:42.278"><span region="Default">当我们见面时会有很多话题吧<br/>从现在开始？</span></p>
+      <p
+        begin="00:10:42.358"
+        end="00:10:45.108"><span region="Default">所以我很期待</span></p>
+      <p
+        begin="00:10:46.318"
+        end="00:10:47.238"><span region="Default">BLACKPINK《THE SHOW》</span></p>
+      <p
+        begin="00:10:47.318"
+        end="00:10:48.198"><span region="Default">《THE SHOW》倒数一天</span></p>
+      <p
+        begin="00:10:48.278"
+        end="00:10:49.238"><span region="Default">《THE SHOW》倒数两天</span></p>
+      <p
+        begin="00:10:49.318"
+        end="00:10:50.158"><span region="Default">《THE SHOW》倒数三天</span></p>
+      <p
+        begin="00:10:50.238"
+        end="00:10:51.078"><span region="Default">《THE SHOW》倒数四天</span></p>
+      <p
+        begin="00:10:52.448"
+        end="00:10:53.868"><span region="Default">《THE SHOW》倒数五天</span></p>
+      <p
+        begin="00:11:00.378"
+        end="00:11:01.458"><span region="Default">《THE SHOW》</span></p>
+      <p
+        begin="00:11:22.818"
+        end="00:11:23.978"><span region="Default">《THE SHOW》倒数四天</span></p>
+      <p
+        begin="00:11:30.528"
+        end="00:11:36.698"><span region="Default">在演唱会上跟乐团一起表演真的很棒</span></p>
+      <p
+        begin="00:11:36.788"
+        end="00:11:40.628"><span region="Default">这种现场感很奇特</span></p>
+      <p
+        begin="00:11:44.588"
+        end="00:11:46.838"><span region="Default">所有的乐器在后面伴奏<br/>还有现场演唱</span></p>
+      <p
+        begin="00:11:47.298"
+        end="00:11:50.888"><span region="Default">但制作也很不一样 所以…</span></p>
+      <p
+        begin="00:11:53.218"
+        end="00:11:58.268"><span region="Default">我终于明白<br/>“这是我两年来一直在做的事”</span></p>
+      <p
+        begin="00:11:59.348"
+        end="00:12:00.348"><span region="Default">《THE SHOW》倒数三天</span></p>
+      <p
+        begin="00:12:04.648"
+        end="00:12:05.978"><span region="Default">我们要怎么进去</span></p>
+      <p
+        begin="00:12:07.898"
+        end="00:12:12.198"><span region="Default">让BLINK也能享受等待的过程</span></p>
+      <p
+        begin="00:12:12.778"
+        end="00:12:18.288"><span region="Default">期待下次表演的到来<br/>我们正努力拍摄</span></p>
+      <p
+        begin="00:12:18.368"
+        end="00:12:19.458"><span region="Default">敬请期待</span></p>
+      <p
+        begin="00:12:25.748"
+        end="00:12:27.208"><span region="Default">《THE SHOW》倒数两天</span></p>
+      <p
+        begin="00:12:30.928"
+        end="00:12:33.298"><span region="Default">我们真的很用心准备这次的演唱会</span></p>
+      <p
+        begin="00:12:34.048"
+        end="00:12:36.808"><span region="Default">希望大家能反复看十几遍</span></p>
+      <p
+        begin="00:12:38.718"
+        end="00:12:41.188"><span region="Default">待会见 再见</span></p>
+      <p
+        begin="00:12:41.478"
+        end="00:12:44.398"><span region="Default">《THE SHOW》倒数一天</span></p>
+      <p
+        begin="00:12:45.818"
+        end="00:12:47.478"><span region="Default">加油 加油 加油</span></p>
+      <p
+        begin="00:12:48.108"
+        end="00:12:49.188"><span region="Default">你好</span></p>
+      <p
+        begin="00:12:57.828"
+        end="00:12:59.498"><span region="Default">我们现在要做什么</span></p>
+      <p
+        begin="00:13:00.368"
+        end="00:13:01.908"><span region="Default">女主持人</span></p>
+      <p
+        begin="00:13:03.248"
+        end="00:13:05.668"><span region="Default">我们今天来排练</span></p>
+      <p
+        begin="00:13:05.838"
+        end="00:13:08.458"><span region="Default">明天…这是在排练什么呢</span></p>
+      <p
+        begin="00:13:08.548"
+        end="00:13:11.218"><span region="Default">我想我们是在排练《THE SHOW》</span></p>
+      <p
+        begin="00:13:21.308"
+        end="00:13:22.478"><span region="Default">《THE SHOW》当天</span></p>
+      <p
+        begin="00:13:22.768"
+        end="00:13:26.608"><span region="Default">BLACKPINK直播演唱会《THE SHOW》</span></p>
+      <p
+        begin="00:13:31.438"
+        end="00:13:33.198"><span region="Default">时间</span></p>
+      <p
+        begin="00:13:49.958"
+        end="00:13:53.088"><span region="Default">我想让它更完美</span></p>
+      <p
+        begin="00:13:53.508"
+        end="00:13:58.008"><span region="Default">因为我不太满意<br/>我希望能有更多时间准备</span></p>
+      <p
+        begin="00:14:00.808"
+        end="00:14:01.968"><span region="Default">我很紧张</span></p>
+      <p
+        begin="00:23:25.458"
+        end="00:23:27.708"><span region="Default">那段时光…</span></p>
+      <p
+        begin="00:23:27.788"
+        end="00:23:28.618"><span region="Default">Lisa的电影</span></p>
+      <p
+        begin="00:23:28.708"
+        end="00:23:30.668"><span region="Default">是我人生中最有趣也最棒的时光</span></p>
+      <p
+        begin="00:23:31.918"
+        end="00:23:34.918"><span region="Default">我想我这辈子都会记得</span></p>
+      <p
+        begin="00:23:35.878"
+        end="00:23:37.838"><span region="Default">那一刻的感觉</span></p>
+      <p
+        begin="00:23:40.048"
+        end="00:23:43.258"><span region="Default">发生了很多事 有快乐的时刻</span></p>
+      <p
+        begin="00:23:43.598"
+        end="00:23:44.718"><span region="Default">也有悲伤的时刻</span></p>
+      <p
+        begin="00:23:45.428"
+        end="00:23:48.188"><span region="Default">我觉得那是最幸福的时光</span></p>
+      <p
+        begin="00:23:59.738"
+        end="00:24:02.948"><span region="Default">当我试着回想艰难的时刻</span></p>
+      <p
+        begin="00:24:03.028"
+        end="00:24:05.748"><span region="Default">奇怪的是 我都记不起来了</span></p>
+      <p
+        begin="00:24:06.788"
+        end="00:24:11.328"><span region="Default">我不自觉地消除了所有在脑海中</span></p>
+      <p
+        begin="00:24:11.418"
+        end="00:24:12.958"><span region="Default">艰辛的记忆</span></p>
+      <p
+        begin="00:24:13.498"
+        end="00:24:16.208"><span region="Default">我不认为我是一个<br/>过于乐观和外向的人</span></p>
+      <p
+        begin="00:24:16.298"
+        end="00:24:18.928"><span region="Default">我跟其他人一样 是个普通人</span></p>
+      <p
+        begin="00:24:19.048"
+        end="00:24:22.348"><span region="Default">我每天都是这样的</span></p>
+      <p
+        begin="00:24:32.268"
+        end="00:24:37.148"><span region="Default">我从小就知道我想做什么</span></p>
+      <p
+        begin="00:24:37.238"
+        end="00:24:41.068"><span region="Default">我认为自己是个非常幸运的人</span></p>
+      <p
+        begin="00:24:41.528"
+        end="00:24:44.828"><span region="Default">我有明确的目标 我未来想当歌手</span></p>
+      <p
+        begin="00:24:45.328"
+        end="00:24:48.328"><span region="Default">我为了实现梦想 非常努力</span></p>
+      <p
+        begin="00:24:59.968"
+        end="00:25:02.548"><span region="Default">我试着让自己快乐</span></p>
+      <p
+        begin="00:25:03.178"
+        end="00:25:07.638"><span region="Default">不要给自己太大的压力</span></p>
+      <p
+        begin="00:25:07.718"
+        end="00:25:11.978"><span region="Default">我希望其他人也能这么想</span></p>
+      <p
+        begin="00:25:13.808"
+        end="00:25:15.228"><span region="Default">人生苦短</span></p>
+      <p
+        begin="00:31:53.498"
+        end="00:31:55.968"><span region="Default">《Pretty Savage》</span></p>
+      <p
+        begin="00:36:57.928"
+        end="00:37:02.308"><span region="Default">我认为我比自己想象中还要坚强</span></p>
+      <p
+        begin="00:37:05.268"
+        end="00:37:08.898"><span region="Default">有时候我会伤心难过</span></p>
+      <p
+        begin="00:37:09.278"
+        end="00:37:12.568"><span region="Default">或经历一些困难 但是…</span></p>
+      <p
+        begin="00:37:12.658"
+        end="00:37:15.408"><span region="Default">在这些时刻 我克服困难的方式</span></p>
+      <p
+        begin="00:37:15.488"
+        end="00:37:18.408"><span region="Default">就是做更多的准备</span></p>
+      <p
+        begin="00:37:18.498"
+        end="00:37:20.788"><span region="Default">或专注思考我该如何更进步</span></p>
+      <p
+        begin="00:37:41.808"
+        end="00:37:48.778"><span region="Default">Jisoo的电影</span></p>
+      <p
+        begin="00:37:50.738"
+        end="00:37:52.028"><span region="Default">人生的态度？</span></p>
+      <p
+        begin="00:37:55.618"
+        end="00:37:56.778"><span region="Default">这题很难回答</span></p>
+      <p
+        begin="00:37:58.198"
+        end="00:37:59.578"><span region="Default">这个嘛</span></p>
+      <p
+        begin="00:38:01.708"
+        end="00:38:04.998"><span region="Default">我只是享受着每一刻</span></p>
+      <p
+        begin="00:38:36.118"
+        end="00:38:37.868"><span region="Default">我在整个过程中感觉到</span></p>
+      <p
+        begin="00:38:38.078"
+        end="00:38:41.868"><span region="Default">如果我想得太远</span></p>
+      <p
+        begin="00:38:42.118"
+        end="00:38:43.788"><span region="Default">想着还没发生的事情</span></p>
+      <p
+        begin="00:38:44.208"
+        end="00:38:45.828"><span region="Default">我可能会感到焦虑和担心</span></p>
+      <p
+        begin="00:38:46.128"
+        end="00:38:47.918"><span region="Default">并且忽略很多事</span></p>
+      <p
+        begin="00:38:47.998"
+        end="00:38:50.798"><span region="Default">所以我试着活在当下</span></p>
+      <p
+        begin="00:38:51.168"
+        end="00:38:54.678"><span region="Default">试着享受乐趣</span></p>
+      <p
+        begin="00:38:58.178"
+        end="00:39:03.768"><span region="Default">2019年世界巡回演唱会<br/>BLACKPINK《In Your Area》</span></p>
+      <p
+        begin="00:39:07.358"
+        end="00:39:09.188"><span region="Default">好耶</span></p>
+      <p
+        begin="00:39:09.438"
+        end="00:39:13.898"><span region="Default">我们就快要跟<br/>来自世界各地的BLINK见面了</span></p>
+      <p
+        begin="00:39:13.988"
+        end="00:39:15.568"><span region="Default">他们已经等很久了</span></p>
+      <p
+        begin="00:39:15.818"
+        end="00:39:20.788"><span region="Default">我非常紧张 但你们期盼已久</span></p>
+      <p
+        begin="00:39:20.988"
+        end="00:39:22.498"><span region="Default">我会展现最好的一面给你们看</span></p>
+      <p
+        begin="00:39:22.578"
+        end="00:39:24.158"><span region="Default">请大家多多支持 好好享受</span></p>
+      <p
+        begin="00:39:26.708"
+        end="00:39:27.538"><span region="Default">首尔</span></p>
+      <p
+        begin="00:39:27.628"
+        end="00:39:29.128"><span region="Default">曼谷</span></p>
+      <p
+        begin="00:39:29.788"
+        end="00:39:31.168"><span region="Default">2019年世界巡回演唱会</span></p>
+      <p
+        begin="00:39:35.758"
+        end="00:39:39.348"><span region="Default">泰国是Lisa的家乡</span></p>
+      <p
+        begin="00:39:39.428"
+        end="00:39:45.268"><span region="Default">我觉得在Lisa的故乡<br/>展开世界巡回演唱会更有意义</span></p>
+      <p
+        begin="00:39:45.348"
+        end="00:39:50.518"><span region="Default">从泰国开始 我们之后会去北美洲</span></p>
+      <p
+        begin="00:39:50.608"
+        end="00:39:54.528"><span region="Default">还有欧洲 跟世界各地的BLINK见面</span></p>
+      <p
+        begin="00:39:54.608"
+        end="00:39:57.408"><span region="Default">我感到非常荣幸 也很期待</span></p>
+      <p
+        begin="00:40:04.868"
+        end="00:40:09.708"><span region="Default">BLACKPINK的世界巡回演唱会<br/>对我来说感觉还很陌生</span></p>
+      <p
+        begin="00:40:10.588"
+        end="00:40:13.208"><span region="Default">我还是不敢相信</span></p>
+      <p
+        begin="00:40:17.588"
+        end="00:40:21.598"><span region="Default">我为了演唱会准备了很多有趣的东西</span></p>
+      <p
+        begin="00:40:22.098"
+        end="00:40:25.558"><span region="Default">我想在不同的国家做更新奇刺激的事</span></p>
+      <p
+        begin="00:40:25.638"
+        end="00:40:27.808"><span region="Default">我是这样想的</span></p>
+      <p
+        begin="00:40:28.018"
+        end="00:40:33.108"><span region="Default">我希望世界各地的BLINK都能来<br/>一定会很好玩</span></p>
+      <p
+        begin="00:40:47.658"
+        end="00:40:49.118"><span region="Default">曼谷的朋友 你们好吗</span></p>
+      <p
+        begin="00:41:23.948"
+        end="00:41:25.948"><span region="Default">真的很感动</span></p>
+      <p
+        begin="00:41:26.038"
+        end="00:41:30.078"><span region="Default">我很幸运能见到她们<br/>我看得出来她们一路走来</span></p>
+      <p
+        begin="00:41:30.328"
+        end="00:41:35.878"><span region="Default">付出了多少努力<br/>我希望她们好好照顾自己</span></p>
+      <p
+        begin="00:41:36.298"
+        end="00:41:39.718"><span region="Default">希望大家身体健康</span></p>
+      <p
+        begin="00:41:39.798"
+        end="00:41:43.928"><span region="Default">因为她们还要去世界各地开演唱会</span></p>
+      <p
+        begin="00:42:02.778"
+        end="00:42:07.118"><span region="Default">我们要去拜访其他国家的BLINK</span></p>
+      <p
+        begin="00:42:07.198"
+        end="00:42:09.328"><span region="Default">请再稍等一下</span></p>
+      <p
+        begin="00:42:09.408"
+        end="00:42:12.998"><span region="Default">我们很快就会到来<br/>并且带来精彩的表演</span></p>
+      <p
+        begin="00:42:13.118"
+        end="00:42:14.958"><span region="Default">BLINK 敬请期待</span></p>
+      <p
+        begin="00:42:16.378"
+        end="00:42:17.208"><span region="Default">曼谷</span></p>
+      <p
+        begin="00:42:17.298"
+        end="00:42:18.338"><span region="Default">雅加达 香港</span></p>
+      <p
+        begin="00:42:18.668"
+        end="00:42:22.798"><span region="Default">雅加达 欢迎来到BLACKPINK<br/>2019世界巡演《In Your Area》</span></p>
+      <p
+        begin="00:42:23.008"
+        end="00:42:24.588"><span region="Default">香港 马尼拉</span></p>
+      <p
+        begin="00:42:24.678"
+        end="00:42:26.178"><span region="Default">新加坡 澳门</span></p>
+      <p
+        begin="00:42:26.258"
+        end="00:42:27.178"><span region="Default">吉隆坡</span></p>
+      <p
+        begin="00:42:27.258"
+        end="00:42:28.218"><span region="Default">台北</span></p>
+      <p
+        begin="00:42:51.118"
+        end="00:42:55.208"><span region="Default">她们是我见过最美好的人<br/>我太爱她们了</span></p>
+      <p
+        begin="00:42:57.588"
+        end="00:42:59.048"><span region="Default">我们的BLACKPINK有自己的风格</span></p>
+      <p
+        begin="00:43:05.178"
+        end="00:43:06.338"><span region="Default">洛杉矶</span></p>
+      <p
+        begin="00:43:06.428"
+        end="00:43:08.808"><span region="Default">BLACKPINK 欢迎来到洛杉矶</span></p>
+      <p
+        begin="00:43:08.888"
+        end="00:43:10.098"><span region="Default">-欢迎来到德州<br/>-欢迎来到德州</span></p>
+      <p
+        begin="00:43:10.178"
+        end="00:43:11.348"><span region="Default">-欢迎来到亚特兰大<br/>-欢迎来到亚特兰大</span></p>
+      <p
+        begin="00:43:11.428"
+        end="00:43:12.768"><span region="Default">-欢迎来到加拿大<br/>-欢迎来到加拿大</span></p>
+      <p
+        begin="00:43:12.888"
+        end="00:43:14.308"><span region="Default">-欢迎来到沃斯堡<br/>-欢迎来到沃斯堡</span></p>
+      <p
+        begin="00:43:14.388"
+        end="00:43:17.358"><span region="Default">-欢迎来到纽瓦克 BLACKPINK<br/>-欢迎来到纽瓦克</span></p>
+      <p
+        begin="00:43:46.088"
+        end="00:43:48.468"><span region="Default">阿姆斯特丹 曼彻斯特 伦敦 柏林</span></p>
+      <p
+        begin="00:43:48.758"
+        end="00:43:53.978"><span region="Default">我很喜欢这四位忠于自我的年轻女孩</span></p>
+      <p
+        begin="00:43:54.178"
+        end="00:43:55.888"><span region="Default">她们就像我们的榜样</span></p>
+      <p
+        begin="00:43:55.978"
+        end="00:43:58.188"><span region="Default">-对 我们都想跟BLACKPINK一样<br/>-对</span></p>
+      <p
+        begin="00:44:34.518"
+        end="00:44:36.058"><span region="Default">墨尔本 悉尼</span></p>
+      <p
+        begin="00:44:36.138"
+        end="00:44:38.138"><span region="Default">嗨 墨尔本 我是Rosé</span></p>
+      <p
+        begin="00:45:05.918"
+        end="00:45:08.548"><span region="Default">欢迎回家 Rosie</span></p>
+      <p
+        begin="00:45:10.588"
+        end="00:45:12.928"><span region="Default">曼谷</span></p>
+      <p
+        begin="00:45:13.178"
+        end="00:45:14.718"><span region="Default">大家好 我是Lisa</span></p>
+      <p
+        begin="00:45:15.888"
+        end="00:45:18.558"><span region="Default">我很高兴能回到泰国</span></p>
+      <p
+        begin="00:45:24.268"
+        end="00:45:26.148"><span region="Default">我们四个人都表现得很好</span></p>
+      <p
+        begin="00:45:26.228"
+        end="00:45:29.568"><span region="Default">我以我们每一个人为荣</span></p>
+      <p
+        begin="00:45:29.778"
+        end="00:45:31.238"><span region="Default">因为我们经历了许多事</span></p>
+      <p
+        begin="00:45:32.868"
+        end="00:45:37.948"><span region="Default">我知道你们只看得到舞台上的表演<br/>但我觉得…</span></p>
+      <p
+        begin="00:45:38.038"
+        end="00:45:41.038"><span region="Default">我们都经历了许多事<br/>我感到非常骄傲…</span></p>
+      <p
+        begin="00:45:41.118"
+        end="00:45:42.378"><span region="Default">我要哭了</span></p>
+      <p
+        begin="00:45:42.918"
+        end="00:45:44.418"><span region="Default">大家别再哭了</span></p>
+      <p
+        begin="00:45:45.748"
+        end="00:45:48.508"><span region="Default">-大家都哭了<br/>-大家都哭了</span></p>
+      <p
+        begin="00:45:54.138"
+        end="00:45:57.218"><span region="Default">我有点害羞</span></p>
+      <p
+        begin="00:45:57.428"
+        end="00:46:01.558"><span region="Default">但我想告诉大家</span></p>
+      <p
+        begin="00:46:02.558"
+        end="00:46:06.398"><span region="Default">再次谢谢你们 BLINK<br/>我们爱你们 非常感谢你们</span></p>
+      <p
+        begin="00:46:06.688"
+        end="00:46:09.818"><span region="Default">我们很爱你们 请继续拭目以待</span></p>
+      <p
+        begin="00:46:09.898"
+        end="00:46:11.608"><span region="Default">我们才刚开始而已</span></p>
+      <p
+        begin="00:46:13.568"
+        end="00:46:16.908"><span region="Default">我们永远爱你们 谢谢</span></p>
+      <p
+        begin="00:46:20.578"
+        end="00:46:23.208"><span region="Default">2019年世界巡回演唱会<br/>BLACKPINK《In Your Area》</span></p>
+      <p
+        begin="00:46:29.548"
+        end="00:46:30.548"><span region="Default">纯洁</span></p>
+      <p
+        begin="00:46:32.548"
+        end="00:46:34.138"><span region="Default">充满诗意</span></p>
+      <p
+        begin="00:46:35.428"
+        end="00:46:37.048"><span region="Default">极度热情</span></p>
+      <p
+        begin="00:46:38.928"
+        end="00:46:40.178"><span region="Default">永不消逝</span></p>
+      <p
+        begin="00:46:42.268"
+        end="00:46:43.768"><span region="Default">真实</span></p>
+      <p
+        begin="00:46:45.058"
+        end="00:46:46.518"><span region="Default">永远年轻</span></p>
+      <p
+        begin="00:46:48.478"
+        end="00:46:50.108"><span region="Default">无私</span></p>
+      <p
+        begin="00:46:51.398"
+        end="00:46:53.608"><span region="Default">你和我</span></p>
+      <p
+        begin="00:46:53.738"
+        end="00:46:55.528"><span region="Default">欲望</span></p>
+      <p
+        begin="00:47:04.418"
+        end="00:47:05.878"><span region="Default">在成长的过程中 你会觉得</span></p>
+      <p
+        begin="00:47:05.958"
+        end="00:47:09.878"><span region="Default">你的目标和梦想是没有极限的</span></p>
+      <p
+        begin="00:47:10.628"
+        end="00:47:13.128"><span region="Default">我经历过一些艰辛的时刻 因为…</span></p>
+      <p
+        begin="00:47:13.628"
+        end="00:47:16.718"><span region="Default">对16岁的孩子来说很有挑战性</span></p>
+      <p
+        begin="00:47:17.258"
+        end="00:47:19.598"><span region="Default">在完全不同的文化下长大</span></p>
+      <p
+        begin="00:47:20.718"
+        end="00:47:22.848"><span region="Default">当时感觉不切实际</span></p>
+      <p
+        begin="00:47:23.098"
+        end="00:47:26.098"><span region="Default">但我知道我的梦想会成真</span></p>
+      <p
+        begin="00:47:27.518"
+        end="00:47:30.898"><span region="Default">其实我很羡慕练习生时期的自己</span></p>
+      <p
+        begin="00:47:30.978"
+        end="00:47:34.858"><span region="Default">因为我觉得我意志坚定</span></p>
+      <p
+        begin="00:47:35.148"
+        end="00:47:37.698"><span region="Default">非常顽固 对我的未来很有信心</span></p>
+      <p
+        begin="00:47:37.778"
+        end="00:47:40.408"><span region="Default">决心要达成我的目标</span></p>
+      <p
+        begin="00:47:40.488"
+        end="00:47:42.498"><span region="Default">不知道为什么 我知道我一定办得到</span></p>
+      <p
+        begin="00:47:46.418"
+        end="00:47:51.168"><span region="Default">我常常会想起<br/>自己当初是多么地热爱音乐</span></p>
+      <p
+        begin="00:47:51.248"
+        end="00:47:52.838"><span region="Default">还有音乐</span></p>
+      <p
+        begin="00:47:53.628"
+        end="00:47:55.758"><span region="Default">是如何支撑着我</span></p>
+      <p
+        begin="00:47:55.878"
+        end="00:47:59.258"><span region="Default">结果音乐现在变成了我的生活</span></p>
+      <p
+        begin="00:47:59.548"
+        end="00:48:01.508"><span region="Default">直至今日 所以…</span></p>
+      <p
+        begin="00:48:01.638"
+        end="00:48:03.388"><span region="Default">对 音乐非常重要</span></p>
+      <p
+        begin="00:48:06.348"
+        end="00:48:09.808"><span region="Default">制作音乐一直都是很私人的事</span></p>
+      <p
+        begin="00:48:10.478"
+        end="00:48:13.568"><span region="Default">能够第一次探索</span></p>
+      <p
+        begin="00:48:13.648"
+        end="00:48:17.818"><span region="Default">自己的音乐风格<br/>我要向粉丝们展示什么音乐</span></p>
+      <p
+        begin="00:48:17.908"
+        end="00:48:20.278"><span region="Default">是一个很有成就感的体验</span></p>
+      <p
+        begin="00:48:22.408"
+        end="00:48:25.578"><span region="Default">准备《THE SHOW》的同时</span></p>
+      <p
+        begin="00:48:25.658"
+        end="00:48:29.828"><span region="Default">我也正在准备我的个人专辑</span></p>
+      <p
+        begin="00:48:30.128"
+        end="00:48:34.508"><span region="Default">我刚拍完《Gone》的音乐录影带</span></p>
+      <p
+        begin="00:48:34.798"
+        end="00:48:37.798"><span region="Default">那是我接连拍的第二支音乐录影带</span></p>
+      <p
+        begin="00:48:38.468"
+        end="00:48:41.598"><span region="Default">老实说 我想这是我第一次说出口</span></p>
+      <p
+        begin="00:48:41.678"
+        end="00:48:44.388"><span region="Default">那是一个很大的挑战 但同时</span></p>
+      <p
+        begin="00:48:44.468"
+        end="00:48:48.098"><span region="Default">我非常感激我能得到这个机会</span></p>
+      <p
+        begin="00:48:48.808"
+        end="00:48:53.858"><span region="Default">整个过程很有趣<br/>创作 思考 让一切成真</span></p>
+      <p
+        begin="00:48:53.938"
+        end="00:48:55.858"><span region="Default">实践我们所有的想法</span></p>
+      <p
+        begin="00:48:56.688"
+        end="00:48:58.528"><span region="Default">我觉得我已经尽力了</span></p>
+      <p
+        begin="00:48:58.648"
+        end="00:49:00.568"><span region="Default">我不会想回到过去 改变任何事</span></p>
+      <p
+        begin="00:49:00.658"
+        end="00:49:04.448"><span region="Default">因为我真的全心全力投入</span></p>
+      <p
+        begin="00:57:10.648"
+        end="00:57:13.358"><span region="Default">在我的印象中</span></p>
+      <p
+        begin="00:57:13.478"
+        end="00:57:16.898"><span region="Default">我从小就一直是个很害羞的孩子</span></p>
+      <p
+        begin="00:57:18.358"
+        end="00:57:22.068"><span region="Default">我不喜欢在很多人面前说话</span></p>
+      <p
+        begin="00:57:23.788"
+        end="00:57:27.368"><span region="Default">我会努力寻找来自内心的新奇感</span></p>
+      <p
+        begin="00:57:27.458"
+        end="00:57:31.288"><span region="Default">我想把它发展成属于自己的东西</span></p>
+      <p
+        begin="00:57:32.078"
+        end="00:57:35.548"><span region="Default">创造出前所未见的东西</span></p>
+      <p
+        begin="00:57:38.378"
+        end="00:57:42.548"><span region="Default">但在舞台上表演时</span></p>
+      <p
+        begin="00:57:43.098"
+        end="00:57:48.228"><span region="Default">我会展现出截然不同的自己</span></p>
+      <p
+        begin="00:57:48.308"
+        end="00:57:50.388"><span region="Default">我不会感到害怕</span></p>
+      <p
+        begin="00:57:56.608"
+        end="00:57:59.198"><span region="Default">当我在表演时 我会忘记一切</span></p>
+      <p
+        begin="00:57:59.778"
+        end="00:58:01.488"><span region="Default">我会变成主角</span></p>
+      <p
+        begin="00:58:02.068"
+        end="00:58:05.328"><span region="Default">表达自己 表达我们的音乐</span></p>
+      <p
+        begin="00:58:05.868"
+        end="00:58:09.458"><span region="Default">我猜我的内心有个开关<br/>可以随时开启跟关闭</span></p>
+      <p
+        begin="00:58:09.538"
+        end="00:58:11.998"><span region="Default">但我不是刻意的</span></p>
+      <p
+        begin="00:58:12.628"
+        end="00:58:14.748"><span region="Default">我觉得它会对音乐产生反应</span></p>
+      <p
+        begin="00:58:14.998"
+        end="00:58:21.088"><span region="Default">当我踏上舞台<br/>就会马上感受到这股能量</span></p>
+      <p
+        begin="00:58:42.818"
+        end="00:58:45.488"><span region="Default">我想说这是我与生俱来的能力</span></p>
+      <p
+        begin="00:58:45.618"
+        end="00:58:48.698"><span region="Default">因为我很引以为傲 也很开心能表演</span></p>
+      <p
+        begin="00:58:49.498"
+        end="00:58:50.538"><span region="Default">没错</span></p>
+      <p
+        begin="01:01:47.378"
+        end="01:01:51.218"><span region="Default">我觉得我们的特点蛮明确的</span></p>
+      <p
+        begin="01:01:51.718"
+        end="01:01:53.598"><span region="Default">我喜欢这样想</span></p>
+      <p
+        begin="01:01:53.678"
+        end="01:01:57.058"><span region="Default">我们很自豪我们融合了黑色和粉红色</span></p>
+      <p
+        begin="01:01:57.348"
+        end="01:01:58.808"><span region="Default">但正因为如此</span></p>
+      <p
+        begin="01:01:58.888"
+        end="01:02:02.938"><span region="Default">我们还在持续摸索和实验</span></p>
+      <p
+        begin="01:02:03.018"
+        end="01:02:06.688"><span region="Default">幸好未来不是完全无法预测的</span></p>
+      <p
+        begin="01:02:06.778"
+        end="01:02:10.948"><span region="Default">我们正朝着我们想要的方向前进</span></p>
+      <p
+        begin="01:02:11.028"
+        end="01:02:14.278"><span region="Default">因此我们很享受整个过程</span></p>
+      <p
+        begin="01:02:14.448"
+        end="01:02:16.578"><span region="Default">我们在不同的文化中长大</span></p>
+      <p
+        begin="01:02:16.828"
+        end="01:02:18.618"><span region="Default">各种文化交织在一起<br/>创造出这个团体</span></p>
+      <p
+        begin="01:02:19.578"
+        end="01:02:21.578"><span region="Default">但比起强迫它们融为一体</span></p>
+      <p
+        begin="01:02:21.668"
+        end="01:02:25.338"><span region="Default">我们仍保留各自的个性</span></p>
+      <p
+        begin="01:02:25.418"
+        end="01:02:27.588"><span region="Default">形成一个团队进行活动</span></p>
+      <p
+        begin="01:02:27.878"
+        end="01:02:32.428"><span region="Default">我认为那反而突显了<br/>BLACKPINK这个团体的特色</span></p>
+      <p
+        begin="01:02:33.468"
+        end="01:02:38.058"><span region="Default">我觉得我们最闪耀的时刻</span></p>
+      <p
+        begin="01:02:38.138"
+        end="01:02:40.098"><span region="Default">是当我们做自己热爱的事</span></p>
+      <p
+        begin="01:02:40.178"
+        end="01:02:42.478"><span region="Default">那便是音乐 对吧</span></p>
+      <p
+        begin="01:02:42.728"
+        end="01:02:47.688"><span region="Default">当我们能完全表达<br/>我们想表达的东西时</span></p>
+      <p
+        begin="01:02:48.068"
+        end="01:02:50.358"><span region="Default">那才是我们最闪耀的时刻</span></p>
+      <p
+        begin="01:02:51.488"
+        end="01:02:54.868"><span region="Default">所以我觉得我们未来</span></p>
+      <p
+        begin="01:02:54.948"
+        end="01:02:59.328"><span region="Default">应该要展现更多我们热衷的事</span></p>
+      <p
+        begin="01:02:59.408"
+        end="01:03:02.498"><span region="Default">当我们这么做时 我们总会这样想</span></p>
+      <p
+        begin="01:03:02.578"
+        end="01:03:06.998"><span region="Default">〝我们可以展现这样的东西<br/>这次我们可以展现这个〞</span></p>
+      <p
+        begin="01:03:07.548"
+        end="01:03:11.918"><span region="Default">我觉得以后也可以展现出<br/>我们不同的一面</span></p>
+      <p
+        begin="01:03:12.928"
+        end="01:03:17.308"><span region="Default">今后我们也会继续<br/>做我们想做的事 并展现给大家看</span></p>
+      <p
+        begin="01:03:22.228"
+        end="01:03:26.938"><span region="Default">五年不算短也不算长 对吧</span></p>
+      <p
+        begin="01:03:27.478"
+        end="01:03:31.318"><span region="Default">但发生了许多不同的事</span></p>
+      <p
+        begin="01:03:31.898"
+        end="01:03:34.908"><span region="Default">有开心的时候 也有难过的时候</span></p>
+      <p
+        begin="01:03:35.778"
+        end="01:03:42.708"><span region="Default">那应该是我20多岁时最幸福的时光</span></p>
+      <p
+        begin="01:03:45.748"
+        end="01:03:48.998"><span region="Default">我们巡演的时候</span></p>
+      <p
+        begin="01:03:49.588"
+        end="01:03:53.668"><span region="Default">我总是感觉非常忙碌</span></p>
+      <p
+        begin="01:03:53.758"
+        end="01:03:56.548"><span region="Default">想着我们接下来要去哪个城市之类的</span></p>
+      <p
+        begin="01:03:57.048"
+        end="01:04:01.308"><span region="Default">但看到这段视频后<br/>我们似乎笑得很开心</span></p>
+      <p
+        begin="01:04:01.388"
+        end="01:04:06.398"><span region="Default">很享受我们在一起的时光</span></p>
+      <p
+        begin="01:04:08.228"
+        end="01:04:13.188"><span region="Default">我们刚出道时 经历了许多不同的事</span></p>
+      <p
+        begin="01:04:13.398"
+        end="01:04:16.818"><span region="Default">我们会担心我们表现得好不好</span></p>
+      <p
+        begin="01:04:16.948"
+        end="01:04:20.408"><span region="Default">对某些事情感到不确定</span></p>
+      <p
+        begin="01:04:21.118"
+        end="01:04:23.408"><span region="Default">我们第一次办演唱会的时候</span></p>
+      <p
+        begin="01:04:23.908"
+        end="01:04:29.538"><span region="Default">我们在台上的演讲<br/>也是演唱会很重要的一部分</span></p>
+      <p
+        begin="01:04:30.378"
+        end="01:04:35.008"><span region="Default">我当时很紧张 心想<br/>“拜托不要犯错”</span></p>
+      <p
+        begin="01:04:35.338"
+        end="01:04:39.718"><span region="Default">我们出道已经两年多了</span></p>
+      <p
+        begin="01:04:39.888"
+        end="01:04:43.848"><span region="Default">能在韩国首尔</span></p>
+      <p
+        begin="01:04:43.928"
+        end="01:04:48.398"><span region="Default">这么大的场地举办演唱会</span></p>
+      <p
+        begin="01:04:48.728"
+        end="01:04:52.528"><span region="Default">当我这么说的时候<br/>我感觉自己进步了很多</span></p>
+      <p
+        begin="01:04:53.068"
+        end="01:04:56.488"><span region="Default">那也是拜BLINK所赐 对吧 各位</span></p>
+      <p
+        begin="01:04:56.738"
+        end="01:04:59.658"><span region="Default">我们从第一天就在一起了</span></p>
+      <p
+        begin="01:04:59.818"
+        end="01:05:04.328"><span region="Default">我们演讲时会彼此照应<br/>而且越来越得心应手</span></p>
+      <p
+        begin="01:05:04.828"
+        end="01:05:08.078"><span region="Default">这是我们都有所成长的体现</span></p>
+      <p
+        begin="01:05:08.168"
+        end="01:05:09.458"><span region="Default">我是这么想的</span></p>
+      <p
+        begin="01:05:09.788"
+        end="01:05:12.628"><span region="Default">我想要相信</span></p>
+      <p
+        begin="01:05:13.048"
+        end="01:05:14.878"><span region="Default">我们还保有练习生时期的活力</span></p>
+      <p
+        begin="01:05:17.508"
+        end="01:05:20.888"><span region="Default">我好感动 谢谢你们前来</span></p>
+      <p
+        begin="01:05:21.758"
+        end="01:05:25.428"><span region="Default">“因为我们是四个人<br/>让我们相信彼此吧”</span></p>
+      <p
+        begin="01:05:25.768"
+        end="01:05:30.148"><span region="Default">在我们开始这样想之后<br/>我们玩得更开心了</span></p>
+      <p
+        begin="01:05:30.478"
+        end="01:05:33.858"><span region="Default">挑战新事物时也变得更有趣了</span></p>
+      <p
+        begin="01:05:34.318"
+        end="01:05:38.028"><span region="Default">我们变得更兴奋<br/>像是对未来充满期待？</span></p>
+      <p
+        begin="01:05:38.278"
+        end="01:05:40.358"><span region="Default">我觉得我们又有所成长了</span></p>
+      <p
+        begin="01:05:40.448"
+        end="01:05:46.578"><span region="Default">我们会永远支持你们 BLINK<br/>所以请BLINK留在我们身边 谢谢</span></p>
+      <p
+        begin="01:05:47.748"
+        end="01:05:49.038"><span region="Default">当我们四个人在一起时</span></p>
+      <p
+        begin="01:05:49.118"
+        end="01:05:54.458"><span region="Default">我们总是像练习生时期一样<br/>一起笑 一起聊天</span></p>
+      <p
+        begin="01:05:54.748"
+        end="01:05:56.628"><span region="Default">一起工作也很有趣</span></p>
+      <p
+        begin="01:05:56.708"
+        end="01:05:58.798"><span region="Default">-还是一样<br/>-我觉得我们都一样</span></p>
+      <p
+        begin="01:06:00.218"
+        end="01:06:02.348"><span region="Default">现在我们什么都不用说</span></p>
+      <p
+        begin="01:06:02.428"
+        end="01:06:05.098"><span region="Default">看着对方的眼睛就知道了</span></p>
+      <p
+        begin="01:06:06.428"
+        end="01:06:07.478"><span region="Default">-就知道了<br/>-就知道了</span></p>
+      <p
+        begin="01:06:07.598"
+        end="01:06:09.058"><span region="Default">换你说 Lisa</span></p>
+      <p
+        begin="01:06:09.188"
+        end="01:06:13.478"><span region="Default">好 谢谢大家的支持</span></p>
+      <p
+        begin="01:06:14.648"
+        end="01:06:18.148"><span region="Default">以及你们的爱 我将会更努力</span></p>
+      <p
+        begin="01:06:18.238"
+        end="01:06:20.568"><span region="Default">作为BLACKPINK一员的Lisa 各位</span></p>
+      <p
+        begin="01:06:20.658"
+        end="01:06:22.028"><span region="Default">我爱你们 BLINK</span></p>
+      <p
+        begin="01:16:41.148"
+        end="01:16:43.068"><span region="Default">BLINK</span></p>
+      <p
+        begin="01:16:43.688"
+        end="01:16:47.488"><span region="Default">我们刚刚结束在美国的最后一场巡演</span></p>
+      <p
+        begin="01:16:49.528"
+        end="01:16:51.618"><span region="Default">我还是听不见</span></p>
+      <p
+        begin="01:16:52.948"
+        end="01:16:54.288"><span region="Default">我的声音还可以吗</span></p>
+      <p
+        begin="01:16:54.368"
+        end="01:16:57.208"><span region="Default">我很难过一切都结束了</span></p>
+      <p
+        begin="01:16:57.498"
+        end="01:17:04.008"><span region="Default">好可惜哦 感觉苦乐参半</span></p>
+      <p
+        begin="01:17:05.468"
+        end="01:17:07.218"><span region="Default">在过去的一个半月</span></p>
+      <p
+        begin="01:17:08.008"
+        end="01:17:12.428"><span region="Default">有许多新奇刺激的体验</span></p>
+      <p
+        begin="01:17:12.718"
+        end="01:17:17.978"><span region="Default">但我周游于不同的城市<br/>有很多时间可以放松</span></p>
+      <p
+        begin="01:17:19.978"
+        end="01:17:21.148"><span region="Default">感觉很棒</span></p>
+      <p
+        begin="01:17:22.648"
+        end="01:17:26.778"><span region="Default">我们表演了很多场<br/>也度过了一段很有意义的时光</span></p>
+      <p
+        begin="01:17:27.448"
+        end="01:17:31.658"><span region="Default">每一刻都比我想象中还要开心</span></p>
+      <p
+        begin="01:17:31.738"
+        end="01:17:34.998"><span region="Default">这场巡演富有意义<br/>就像惊喜礼物一样</span></p>
+      <p
+        begin="01:17:35.908"
+        end="01:17:38.538"><span region="Default">这场巡演让我感触最深的是…</span></p>
+      <p
+        begin="01:17:41.248"
+        end="01:17:44.418"><span region="Default">对我来说 这段时间</span></p>
+      <p
+        begin="01:17:44.508"
+        end="01:17:47.968"><span region="Default">让我重新思考自己<br/>身为BLACKPINK一员的意义</span></p>
+      <p
+        begin="01:17:56.598"
+        end="01:18:01.858"><span region="Default">老实说 我们并没有因为<br/>已经过了五年而有太大的改变</span></p>
+      <p
+        begin="01:18:01.938"
+        end="01:18:04.358"><span region="Default">我们没什么改变</span></p>
+      <p
+        begin="01:18:04.528"
+        end="01:18:07.608"><span region="Default">但身边有粉丝更令人安心</span></p>
+      <p
+        begin="01:18:07.698"
+        end="01:18:11.238"><span region="Default">他们支持了我们五年</span></p>
+      <p
+        begin="01:18:11.318"
+        end="01:18:14.158"><span region="Default">未来还会有六周年 七周年</span></p>
+      <p
+        begin="01:18:14.368"
+        end="01:18:19.788"><span region="Default">但随着时间流逝<br/>我们感觉越来越强大了</span></p>
+      <p
+        begin="01:18:20.168"
+        end="01:18:24.708"><span region="Default">我很喜欢我们和BLINK之间的关系</span></p>
+      <p
+        begin="01:18:24.878"
+        end="01:18:27.008"><span region="Default">我们变得更加亲近了</span></p>
+      <p
+        begin="01:18:27.838"
+        end="01:18:30.008"><span region="Default">真不敢相信已经五年了</span></p>
+      <p
+        begin="01:18:32.008"
+        end="01:18:38.348"><span region="Default">我希望这部电影能让BLINK…</span></p>
+      <p
+        begin="01:18:39.388"
+        end="01:18:42.148"><span region="Default">一解苦闷之情 而且…</span></p>
+      <p
+        begin="01:18:43.268"
+        end="01:18:46.568"><span region="Default">这也是我们的美好回忆</span></p>
+      <p
+        begin="01:18:46.648"
+        end="01:18:50.028"><span region="Default">或许我们明年<br/>会再回忆并谈起这段时光？</span></p>
+      <p
+        begin="01:18:50.778"
+        end="01:18:53.828"><span region="Default">我们踏出了新的一步 我很高兴</span></p>
+      <p
+        begin="01:18:54.698"
+        end="01:18:56.578"><span region="Default">我们能有这个机会</span></p>
+      <p
+        begin="01:18:58.408"
+        end="01:19:00.248"><span region="Default">然后我很想念你们</span></p>
+      <p
+        begin="01:19:26.568"
+        end="01:19:31.448"><span region="Default">这五年来 我好像哭了很多次</span></p>
+      <p
+        begin="01:19:31.528"
+        end="01:19:36.278"><span region="Default">我每次看粉丝的视频都会热泪盈眶</span></p>
+      <p
+        begin="01:19:36.368"
+        end="01:19:39.998"><span region="Default">我看到那段视频时好感动</span></p>
+      <p
+        begin="01:19:40.368"
+        end="01:19:43.788"><span region="Default">就连现在我说话的时候<br/>都觉得自己快哭了</span></p>
+      <p
+        begin="01:19:44.168"
+        end="01:19:48.458"><span region="Default">因为我认为那是很快乐的时光</span></p>
+      <p
+        begin="01:20:01.388"
+        end="01:20:05.268"><span region="Default">五年前 我们比现在年轻五岁</span></p>
+      <p
+        begin="01:20:05.348"
+        end="01:20:07.728"><span region="Default">我们的BLINK也是一样</span></p>
+      <p
+        begin="01:20:08.228"
+        end="01:20:10.068"><span region="Default">随着我们不断地成长</span></p>
+      <p
+        begin="01:20:10.148"
+        end="01:20:14.068"><span region="Default">我很高兴有BLINK的陪伴</span></p>
+      <p
+        begin="01:20:14.528"
+        end="01:20:18.658"><span region="Default">我很想念他们<br/>因为我们最近都没机会见面</span></p>
+      <p
+        begin="01:20:18.988"
+        end="01:20:22.618"><span region="Default">但同样地 下次我们相聚时…</span></p>
+      <p
+        begin="01:20:22.708"
+        end="01:20:26.458"><span region="Default">又能开心地跟他们见面</span></p>
+      <p
+        begin="01:20:26.538"
+        end="01:20:28.708"><span region="Default">想到这点我就兴奋又期待</span></p>
+      <p
+        begin="01:20:29.128"
+        end="01:20:34.798"><span region="Default">谢谢你们总是在关心 支持 爱护我们</span></p>
+      <p
+        begin="01:20:35.338"
+        end="01:20:37.048"><span region="Default">我们很想你们</span></p>
+      <p
+        begin="01:20:37.638"
+        end="01:20:40.888"><span region="Default">无论我们做了什么</span></p>
+      <p
+        begin="01:20:41.518"
+        end="01:20:43.348"><span region="Default">或那一年发生了什么事</span></p>
+      <p
+        begin="01:20:43.478"
+        end="01:20:47.688"><span region="Default">BLINK一直都在我们身边 爱着我们</span></p>
+      <p
+        begin="01:20:48.058"
+        end="01:20:52.398"><span region="Default">这让我们更有动力往前走</span></p>
+      <p
+        begin="01:20:52.608"
+        end="01:20:54.818"><span region="Default">希望未来的日子里</span></p>
+      <p
+        begin="01:20:55.318"
+        end="01:21:01.038"><span region="Default">你们能和BLACKPINK<br/>一起走到最后 一生相伴</span></p>
+      <p
+        begin="01:21:01.328"
+        end="01:21:04.078"><span region="Default">谢谢你们 我永远爱你们</span></p>
+      <p
+        begin="01:21:06.288"
+        end="01:21:12.458"><span region="Default">当我们谈及内心的感受</span></p>
+      <p
+        begin="01:21:12.548"
+        end="01:21:13.878"><span region="Default">我总是无话可说</span></p>
+      <p
+        begin="01:21:13.968"
+        end="01:21:16.128"><span region="Default">我觉得很害羞 但…</span></p>
+      <p
+        begin="01:21:28.518"
+        end="01:21:29.728"><span region="Default">我该说什么呢</span></p>
+      <p
+        begin="01:21:34.938"
+        end="01:21:39.368"><span region="Default">我有很多话想说 但是…</span></p>
+      <p
+        begin="01:21:40.528"
+        end="01:21:43.238"><span region="Default">长话短说</span></p>
+      <p
+        begin="01:21:47.868"
+        end="01:21:49.958"><span region="Default">非常感谢大家</span></p>
+      <p
+        begin="01:21:50.128"
+        end="01:21:56.968"><span region="Default">谢谢大家这么喜欢BLACKPINK的Lisa</span></p>
+      <p
+        begin="01:21:57.048"
+        end="01:21:59.888"><span region="Default">我小时候从没想过…</span></p>
+      <p
+        begin="01:22:01.638"
+        end="01:22:03.968"><span region="Default">我能获得</span></p>
+      <p
+        begin="01:22:05.348"
+        end="01:22:11.558"><span region="Default">来自世界各地人们的爱</span></p>
+      <p
+        begin="01:22:12.898"
+        end="01:22:16.778"><span region="Default">谢谢你们一直支持我</span></p>
+      <p
+        begin="01:22:18.108"
+        end="01:22:19.358"><span region="Default">对 就这样</span></p>
+      <p
+        begin="01:22:20.448"
+        end="01:22:27.038"><span region="Default">除了道谢之外<br/>我不知道该怎么表达我的感受</span></p>
+      <p
+        begin="01:22:30.538"
+        end="01:22:34.498"><span region="Default">谢谢BLACKPINK<br/>让我们知道我们能做自己热爱的事</span></p>
+      <p
+        begin="01:22:34.588"
+        end="01:22:36.128"><span region="Default">只要我们保有信念</span></p>
+      <p
+        begin="01:22:36.208"
+        end="01:22:37.218"><span region="Default">我们爱你们</span></p>
+      <p
+        begin="01:22:37.588"
+        end="01:22:42.218"><span region="Default">女孩们 继续加油 我们挺你们<br/>一路相挺到底 我们爱你们</span></p>
+      <p
+        begin="01:22:42.298"
+        end="01:22:46.598"><span region="Default">我会永远支持BLACKPINK<br/>谢谢你们所做的一切</span></p>
+      <p
+        begin="01:22:47.268"
+        end="01:22:48.268"><span region="Default">我也是</span></p>
+      <p
+        begin="01:22:49.058"
+        end="01:22:51.098"><span region="Default">-你们是女王<br/>-我们爱你们</span></p>
+      <p
+        begin="01:22:51.188"
+        end="01:22:53.648"><span region="Default">我爱你们 你们表现得很棒</span></p>
+      <p
+        begin="01:22:53.728"
+        end="01:22:55.188"><span region="Default">希望能再见到你们</span></p>
+      <p
+        begin="01:23:24.098"
+        end="01:23:26.098"><span region="Default">当我们站上舞台</span></p>
+      <p
+        begin="01:23:26.638"
+        end="01:23:31.478"><span region="Default">我们可以看到<br/>灯光棒在摇晃 众人在欢呼</span></p>
+      <p
+        begin="01:23:33.808"
+        end="01:23:35.688"><span region="Default">好漂亮</span></p>
+      <p
+        begin="01:23:36.478"
+        end="01:23:39.818"><span region="Default">有些人会让灯光棒发出哔哔声</span></p>
+      <p
+        begin="01:23:39.898"
+        end="01:23:41.698"><span region="Default">可以那样设定</span></p>
+      <p
+        begin="01:23:42.028"
+        end="01:23:46.618"><span region="Default">每次我听到都觉得很兴奋<br/>受到很大的鼓舞</span></p>
+      <p
+        begin="01:23:49.868"
+        end="01:23:55.418"><span region="Default">-BLACKPINK<br/>-BLACKPINK</span></p>
+      <p
+        begin="01:23:55.498"
+        end="01:24:00.088"><span region="Default">-BLACKPINK<br/>-BLACKPINK</span></p>
+      <p
+        begin="01:24:00.168"
+        end="01:24:03.178"><span region="Default">我们会好好珍惜这段珍贵的回忆</span></p>
+      <p
+        begin="01:24:03.338"
+        end="01:24:07.308"><span region="Default">感谢各位真心的支持和爱护</span></p>
+      <p
+        begin="01:24:07.638"
+        end="01:24:12.268"><span region="Default">我们会带着这些回忆<br/>以BLACKPINK的身份更进一步成长</span></p>
+      <p
+        begin="01:24:12.348"
+        end="01:24:13.478"><span region="Default">谢谢你们</span></p>
+      <p
+        begin="01:24:27.448"
+        end="01:24:29.288"><span region="Default">留在我们身边 BLINK</span></p>
+      <p
+        begin="01:24:30.198"
+        end="01:24:32.578"><span region="Default">我们会永远留在你们身边</span></p>
+      <p
+        begin="01:24:32.658"
+        end="01:24:33.788"><span region="Default">再一次就好</span></p>
+      <p
+        begin="01:24:33.868"
+        end="01:24:35.788"><span region="Default">在我们离开前<br/>我们要再仔细地看看你们</span></p>
+      <p
+        begin="01:24:35.878"
+        end="01:24:38.088"><span region="Default">我们的BLINK好漂亮</span></p>
+      <p
+        begin="01:24:38.168"
+        end="01:24:41.878"><span region="Default">请继续支持我们 一起开心到最后</span></p>
+      <p
+        begin="01:24:42.008"
+        end="01:24:43.088"><span region="Default">-我们爱你们<br/>-我们爱你们</span></p>
+      <p
+        begin="01:25:01.228"
+        end="01:25:02.278"><span region="Default">BLACKPINK直到永远</span></p>
+      <p
+        begin="01:25:02.358"
+        end="01:25:03.188"><span region="Default">你们最棒了</span></p>
+      <p
+        begin="01:25:03.278"
+        end="01:25:04.278"><span region="Default">你们让我的人生更有趣幸福</span></p>
+      <p
+        begin="01:25:04.358"
+        end="01:25:05.278"><span region="Default">谢谢你们成为我青春的亮点</span></p>
+      <p
+        begin="01:33:17.188"
+        end="01:33:21.068"><span region="Default">简单来说 我可以比手势吗</span></p>
+      <p
+        begin="01:33:21.688"
+        end="01:33:22.858"><span region="Default">好 我要比手势</span></p>
+      <p
+        begin="01:33:22.938"
+        end="01:33:25.198"><span region="Default">-因为每个人表达的方式都不同<br/>-对</span></p>
+      <p
+        begin="01:33:26.778"
+        end="01:33:30.078"><span region="Default">BLACKPINK和BLINK直到永远</span></p>
+      <p
+        begin="01:33:32.248"
+        end="01:33:33.868"><span region="Default">谢谢你帮我做反应</span></p>
+      <p
+        begin="01:33:33.958"
+        end="01:33:35.618"><span region="Default">-天啊 但这是什么<br/>-太棒了</span></p>
+      <p
+        begin="01:33:36.288"
+        end="01:33:37.418"><span region="Default">可以这样直接结束吗</span></p>
+      <p
+        begin="01:33:37.498"
+        end="01:33:39.748"><span region="Default">BLACKPINK和BLINK直到永远</span></p>
+      <p
+        begin="01:33:41.088"
+        end="01:33:43.508"><span region="Default">谢谢 要一起试试看吗 来吧</span></p>
+      <p
+        begin="01:33:43.708"
+        end="01:33:45.838"><span region="Default">像这样 BLACKPINK和BLINK直到永远</span></p>
+      <p
+        begin="01:33:45.928"
+        end="01:33:47.638"><span region="Default">好 五 六 七 八</span></p>
+      <p
+        begin="01:33:47.798"
+        end="01:33:50.508"><span region="Default">BLACKPINK和BLINK直到永远</span></p>
+      <p
+        begin="01:33:50.888"
+        end="01:33:52.638"><span region="Default">谢谢你们</span></p>
+      <p
+        begin="01:33:54.098"
+        end="01:33:55.228"><span region="Default">好好笑</span></p>
+      <p
+        begin="01:36:23.458"
+        end="01:36:25.208"><span region="Default">我很想念你们</span></p>
+      <p
+        begin="01:36:25.288"
+        end="01:36:27.378"><span region="Default">最后 特别致谢我们最爱的BLINK</span></p>
+    </div>
+  </body>
+</tt>
