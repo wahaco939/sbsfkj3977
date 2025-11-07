@@ -518,12 +518,13 @@
     contentType="text"
     lang="ms"
     label="Bahasa Melayu"
-    mimeType="text/vtt">
+    mimeType="application/ttml+xml">
     
-    <Representation id="textstream_ms_1" bandwidth="0">
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_ms_1" bandwidth="256">
         <BaseURL>https://wahaco939.github.io/sbsfkj3977/</BaseURL>
         <SegmentList>
-            <SegmentURL media="subtitles_msa.vtt"/>
+            <SegmentURL media="subtitles_msa.ttml"/>
         </SegmentList>
     </Representation>
 </AdaptationSet>
@@ -533,12 +534,13 @@
     contentType="text"
     lang="en"
     label="English"
-    mimeType="text/vtt">
+    mimeType="application/ttml+xml">
     
-    <Representation id="textstream_en_1" bandwidth="0">
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_en_1" bandwidth="256">
         <BaseURL>https://wahaco939.github.io/sbsfkj3977/</BaseURL>
         <SegmentList>
-            <SegmentURL media="subtitles_eng.vtt"/>
+            <SegmentURL media="subtitles_eng.ttml"/>
         </SegmentList>
     </Representation>
 </AdaptationSet>
@@ -548,12 +550,13 @@
     contentType="text"
     lang="zh"
     label="Chinese"
-    mimeType="text/vtt">
+    mimeType="application/ttml+xml">
     
-    <Representation id="textstream_zh_1" bandwidth="0">
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_zh_1" bandwidth="256">
         <BaseURL>https://wahaco939.github.io/sbsfkj3977/</BaseURL>
         <SegmentList>
-            <SegmentURL media="subtitles_chi.vtt"/>
+            <SegmentURL media="subtitles_chi.ttml"/>
         </SegmentList>
     </Representation>
 </AdaptationSet>		
