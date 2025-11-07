@@ -521,7 +521,7 @@
     mimeType="text/vtt">
     
     <Representation id="textstream_ms_1" bandwidth="0">
-        <BaseURL>https://satoh9945.github.io/sbsfkj3977/</BaseURL>
+        <BaseURL>https://wahaco939.github.io/sbsfkj3977/</BaseURL>
         <SegmentList>
             <SegmentURL media="subtitles_msa.vtt"/>
         </SegmentList>
@@ -536,7 +536,7 @@
     mimeType="text/vtt">
     
     <Representation id="textstream_en_1" bandwidth="0">
-        <BaseURL>https://satoh9945.github.io/sbsfkj3977/</BaseURL>
+        <BaseURL>https://wahaco939.github.io/sbsfkj3977/</BaseURL>
         <SegmentList>
             <SegmentURL media="subtitles_eng.vtt"/>
         </SegmentList>
@@ -551,7 +551,7 @@
     mimeType="text/vtt">
     
     <Representation id="textstream_zh_1" bandwidth="0">
-        <BaseURL>https://satoh9945.github.io/sbsfkj3977/</BaseURL>
+        <BaseURL>https://wahaco939.github.io/sbsfkj3977/</BaseURL>
         <SegmentList>
             <SegmentURL media="subtitles_chi.vtt"/>
         </SegmentList>
